@@ -3,15 +3,19 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["iso2", "primaryCurrency", "updatedAt"],
+    "required": [
+      "iso2",
+      "supportsMultiCurrency",
+      "settlementCurrency",
+      "minorUnits",
+      "updatedAt"
+    ],
     "properties": {
       "iso2": { "type": "string", "pattern": "^[A-Z]{2}$" },
-      "primaryCurrency": { "type": "string", "pattern": "^[A-Z]{3}$" },
-      "commonCurrencies": {
-        "type": "array",
-        "items": { "type": "string", "pattern": "^[A-Z]{3}$" }
-      },
-      "cashCurrencyDiffersFromSettlement": { "type": "boolean" },
+      "supportsMultiCurrency": { "type": "boolean" },
+      "settlementCurrency": { "type": "string", "pattern": "^[A-Z]{3}$" },
+      "cashRounding": { "type": "boolean" },
+      "minorUnits": { "type": "integer" },
       "updatedAt": { "type": "string", "format": "date" }
     }
   }

@@ -2,7 +2,9 @@
   {
     "iso2": "GLOBAL",
     "coverageStatus": "open_dataset_available",
-    "adapters": ["geonames_global"],
+    "adapters": [
+      "geonames_global"
+    ],
     "sources": [
       {
         "id": "geonames",
@@ -19,7 +21,9 @@
   {
     "iso2": "JP",
     "coverageStatus": "official_api_available",
-    "adapters": ["jppost_jp"],
+    "adapters": [
+      "jppost_jp"
+    ],
     "sources": [
       {
         "id": "jppost_api",
@@ -27,7 +31,7 @@
         "url": "https://lp-api.da.pf.japanpost.jp/",
         "license": "Japan Post Digital Address Terms",
         "redistributable": false,
-        "confidence": 1.0,
+        "confidence": 1,
         "notes": "Official API for postal and digital addresses."
       },
       {
@@ -36,7 +40,7 @@
         "url": "https://www.post.japanpost.jp/zipcode/download.html",
         "license": "Japan Post Terms",
         "redistributable": true,
-        "confidence": 1.0,
+        "confidence": 1,
         "notes": "Official CSV download."
       }
     ],
@@ -45,7 +49,9 @@
   {
     "iso2": "SUPPLEMENTAL",
     "coverageStatus": "partial_open_dataset",
-    "adapters": ["osm_global"],
+    "adapters": [
+      "osm_global"
+    ],
     "sources": [
       {
         "id": "osm",

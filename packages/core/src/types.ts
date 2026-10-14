@@ -148,3 +148,64 @@ export interface LocalizedLanguageNames {
   names: Record<string, string>;
   updatedAt: string;
 }
+
+export interface Currency {
+  iso2: string;
+  code: string;
+  symbol: string;
+  name: string;
+  updatedAt: string;
+}
+
+export interface CurrencyBehavior {
+  iso2: string;
+  supportsMultiCurrency: boolean;
+  settlementCurrency: string;
+  cashRounding?: boolean;
+  minorUnits: number;
+  updatedAt: string;
+}
+
+export interface MarketBehavior {
+  iso2: string;
+  selectableForShipping: boolean;
+  selectableForBilling: boolean;
+  selectableForPhone: boolean;
+  selectableForResidence: boolean;
+  updatedAt: string;
+}
+
+export interface AdministrativeLevelInfo {
+  level: number;
+  key: string;
+  label: string;
+  required?: boolean;
+}
+
+export interface AdministrativeLevelMetadata {
+  iso2: string;
+  levels: AdministrativeLevelInfo[];
+  updatedAt: string;
+}
+
+export interface AddressComponents {
+  iso2: string;
+  components: string[];
+  order: 'large_to_small' | 'small_to_large';
+  streetAddressCentral: boolean;
+  updatedAt: string;
+}
+
+export interface CountryDisplayOrder {
+  iso2: string;
+  priority: number;
+  popular: boolean;
+  region: string;
+  updatedAt: string;
+}
+
+export interface SortOptions {
+  locale?: string;
+  byPopularity?: boolean;
+  byRegion?: boolean;
+}

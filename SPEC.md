@@ -87,51 +87,67 @@ Web forms. Booking systems. WordPress plugins. Mobile apps. Admin tools. Offline
 - ESM and CJS bundles.
 - JSON Schemas.
 
-## 8. Public API (v0.1.x)
+## 8. Public API
 
 ```ts
+// Countries & Territories
 getCountries(): Country[]
 getCountry(iso2: string): Country | null
 getCountryByIso3(iso3: string): Country | null
 searchCountries(query: string): Country[]
+getTerritoryType(iso2: string): string | null
 
+// Phone
 getCallingCode(iso2: string): string | null
-getCountriesByCallingCode(code: string): Country[]
+getCountriesByCallingCode(code: string): string[]
+getPhoneMetadata(iso2: string): PhoneMetadata | null
 
+// Postal
 getPostalRule(iso2: string): PostalRule | null
 validatePostalCode(iso2: string, value: string): boolean
-
-getCurrency(iso2: string): Currency | null
-getLanguages(iso2: string): Language[]
-getTimezoneDefaults(iso2: string): string[]
-
-getAddressFormat(iso2: string): AddressFormat | null
-getAddressFields(iso2: string): AddressField[]
-getEntryRules(iso2: string, profile: string): EntryRules
-getTerritoryType(iso2: string): string
-getFormBehavior(iso2: string): FormBehavior
 getPostalCodeBehavior(iso2: string, profile: string): PostalBehavior
-```
 
-## 9. Public API (v0.2.x i18n Planned)
+// Address & Admin Levels
+getAddressFormat(iso2: string): AddressFormat | null
+getAddressFields(iso2: string): string[]
+getAdministrativeLevels(iso2: string): AdministrativeLevelInfo[]
+getAddressComponents(iso2: string): AddressComponents | null
 
-```ts
-getWritingSystem(locale: string): WritingSystem | null
-isRtlLocale(locale: string): boolean
+// Locales & i18n
 getLocalesByCountry(iso2: string): LocaleMetadata[]
 getDefaultLocale(iso2: string): string | null
-getAdministrativeLevels(iso2: string): AdministrativeLevel[]
-getAddressComponents(iso2: string): AddressComponent[]
-getCurrencyBehavior(iso2: string): CurrencyBehavior | null
-getMeasurementSystem(iso2: string): MeasurementSystem | null
-getDateTimeFormat(locale: string): DateTimeFormat | null
-getMarketBehavior(iso2: string): MarketBehavior | null
+getWritingSystem(locale: string): WritingSystem | null
+isRtlLocale(locale: string): boolean
 getLocalizedCountryName(iso2: string, locale: string): string | null
-getLocalizedLanguageName(languageCode: string, locale: string): string | null
-sortCountries(countries: Country[], options: SortOptions): Country[]
+getLocalizedLanguageName(code: string, locale: string): string | null
+getLanguages(iso2: string): Language[]
+
+// DateTime & Timezone
+getDateTimeFormat(locale: string): DateTimeFormat | null
+getWeekStart(locale: string): string | null
+getCalendarPreferences(locale: string): CalendarPreferences | null
+getTimezoneDefaults(iso2: string): string[]
+getTimezones(iso2: string): TimezoneMetadata | null
+
+// Currency
+getCurrency(iso2: string): Currency | null
+getCurrencyBehavior(iso2: string): CurrencyBehavior | null
+
+// Units
+getMeasurementSystem(iso2: string): MeasurementSystem | null
+getPreferredUnits(iso2: string): PreferredUnits | null
+
+// Forms & UX
+getFormBehavior(iso2: string): FormBehavior
+getEntryRules(iso2: string, profile: string): EntryRules
+getNameFormat(iso2: string): NameFormat | null
+
+// Markets & Sorting
+getMarketBehavior(iso2: string): MarketBehavior | null
+sortCountries(countries: Country[], options?: SortOptions): Country[]
 ```
 
-## 10. Schema Rules
+## 9. Schema Rules
 
 - Every country requires `iso2`.
 - `iso2` must be unique.
@@ -141,40 +157,12 @@ sortCountries(countries: Country[], options: SortOptions): Country[]
 - All JSON must validate against local schemas.
 - Generated files must have deterministic row ordering.
 - Every record requires source metadata and `updatedAt`.
-- **Fields**:
-  - `iso2`, `iso3`, `numeric`, `territoryType`, `parentTerritory`, `commerceSelectable`
-  - `phone.callingCodes` (array), `phone.recommendedLibrary`, `phone.normalizationTarget`
-  - `postalCode.used`, `postalCode.requiredForConsumerForms`, `postalCode.requiredForShipping`, `postalCode.label`, `postalCode.regex`, `postalCode.examples` (array)
-  - `address.requiredFields` (array), `address.fieldOrder` (array)
-  - `address.order` (L-S vs S-L), `address.administrativeAreaLabel`, `address.postalCodePosition`
-  - `name.supportsSingleName`, `name.requiresFamilyName`, `name.nameOrder`
-  - `confidence` (0.0 - 1.0), `sources` (array)
 
-## 11. Markdown Distribution Rules
-
-- MD files are generated artifacts.
-- Never hand-edit MD data tables.
-- Generate strictly from canonical JSON.
-- **Required MD Outputs**: `countries.md`, `phone-codes.md`, `postal-rules.md`, `currencies.md`, `languages.md`, `timezones.md`, `address-formats.md`, `form-behavior.md`, `anti-patterns.md`.
-
-## 12. Source and Attribution Policy
-
-- Use: "compatible with", "derived from", "normalized against".
-- Avoid: "official", "guaranteed", "authoritative".
-- Sources: ISO 3166, libphonenumber, libaddressinput, CLDR, GeoNames.
-
-## 13. Build & CI
-
-- Lint code and schemas.
-- Run unit tests for API and data validation.
-- Fail on non-deterministic generation.
-- Monthly automated ingest via `data-refresh.yml`.
-
-## 14. Internationalization (i18n) Architecture (v0.2.0)
+## 10. Internationalization (i18n) Architecture
 
 i18n is core architecture, not a cosmetic layer.
 
-### 14.1 Core Principles
+### 10.1 Core Principles
 
 - **Separate country, locale, language, script, timezone, currency, market, and display behavior.**
 - **Must Not Do**:
@@ -183,10 +171,8 @@ i18n is core architecture, not a cosmetic layer.
   - Do not hardcode English country names.
   - Do not assume Latin script or LTR layout.
   - Do not assume Gregorian-only display.
-  - Do not assume one country has one language.
-  - Do not assume one locale has one country.
 
-### 14.2 i18n Core Modules
+### 10.2 i18n Core Modules
 
 - **localized-country-names.json**: Country names by locale.
 - **country-locales.json**: Official/default/common locales by country.
@@ -195,64 +181,14 @@ i18n is core architecture, not a cosmetic layer.
 - **country-display-order.json**: Sorting rules by locale/market.
 - **language-names.json**: Localized language names.
 
-### 14.3 Implementation Requirements
-
-- **i18n Zod contracts** for every module.
-- **i18n API helpers** (as defined in Section 9).
-- **Test cases** for: JP, US, CA, CH, BE, AE, IL, HK.
-
-## 15. Finance & Commerce Roadmap (Satellite Packages)
-
-### 15.1 @ringmasters/global-entry-commerce (P7)
-
-Static commerce reference metadata.
-
-- **Datasets**: `currencies.json`, `currency-behavior.json`, `cash-rounding.json`, `payment-method-preferences.json`, `tax-labels.json`, `market-behavior.json`.
-
-### 15.2 @ringmasters/global-entry-fx (P7)
-
-Forex metadata and conversion adapters.
-
-- **Datasets**: `currency-pairs.json`, `fx-provider-metadata.json`, `conversion-rules.json`, `rate-freshness-policy.json`, `historical-rate-policy.json`.
-- **Model**: Adapter-based. GED normalizes shape; app chooses provider. No live rate claims.
-
-### 15.3 @ringmasters/global-entry-assets (P7)
-
-Metadata for coins, tokens, stocks, and ETFs.
-
-- **Datasets**: `asset-types.json`, `crypto-assets.json`, `fiat-currencies.json`, `commodity-units.json`, `exchange-codes.json`, `ticker-symbol-rules.json`.
-- **Constraint**: Do not treat crypto symbols like ISO currency codes. Chains and contract addresses required.
-
-### 15.4 @ringmasters/global-entry-finance-i18n (P7)
-
-Market-specific semantic translations for financial jargon.
-
-- **Datasets**: `finance-terms.json`, `stock-market-jargon.json`, `order-types.json`, `asset-class-labels.json`, `risk-term-labels.json`, `localized-market-terms.json`.
-
-## 16. Media Metadata Roadmap (Satellite Packages)
-
-### 16.1 @ringmasters/global-entry-media (P7)
-
-TV and radio station reference metadata.
-
-- **Datasets**: `tv-stations.json`, `radio-stations.json`, `broadcast-networks.json`, `station-affiliations.json`, `media-markets.json`, `broadcast-bands.json`, `call-sign-rules.json`, `country-broadcast-systems.json`, `public-broadcasters.json`, `emergency-broadcast-systems.json`.
-- **Station Fields**: `id`, `name`, `legalName`, `callSign`, `type`, `medium`, `network`, `affiliations`, `iso2`, `region`, `market`, `city`, `timezone`, `languages`, `frequency`, `channel`, `band`, `website`, `status`, `sources`, `updatedAt`, `confidence`.
-- **Non-Goals**:
-  - No live program schedules.
-  - No EPG scraping.
-  - No broadcast authority claims.
-  - No redistribution of proprietary station databases without license.
-  - No live programming schedules in static package.
-  - No assumption of station name permanence.
-
-## 17. Risk Controls (Consolidated)
+## 11. Risk Controls (Consolidated)
 
 - **Source Policy**: CLDR-compatible. Track source per row.
 - **No Official Authority**: Never claim to be official authority for CLDR, finance, or media.
 - **Separation of Concerns**: Live/time-sensitive data (rates, schedules) must be adapters, not static JSON truth.
 - **No fit guarantees** for lifestyle; **no investment advice** for finance; **no emergency infrastructure** for hazards/media.
 
-## 18. Developer User Stories (v0.2+)
+## 12. Developer User Stories
 
 - Developer can render Japan as 日本 for ja locale.
 - Developer can detect that ar locales are RTL.

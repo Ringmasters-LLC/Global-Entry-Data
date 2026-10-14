@@ -112,9 +112,10 @@ export const AdministrativeLevelSchema = z.object({
 
 export const CurrencyBehaviorSchema = z.object({
   iso2: z.string().length(2),
-  primaryCurrency: z.string().length(3),
-  commonCurrencies: z.array(z.string().length(3)).optional(),
-  cashCurrencyDiffersFromSettlement: z.boolean().optional(),
+  supportsMultiCurrency: z.boolean(),
+  settlementCurrency: z.string().length(3),
+  cashRounding: z.boolean().optional(),
+  minorUnits: z.number().int(),
   updatedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
 });
 

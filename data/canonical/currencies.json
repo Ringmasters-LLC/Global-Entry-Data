@@ -1,56 +1,920 @@
 [
   {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham",
+    "symbol": "AED",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "AFN",
+    "name": "Afghan Afghani",
+    "symbol": "AFN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ALL",
+    "name": "Albanian Lek",
+    "symbol": "ALL",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "AMD",
+    "name": "Armenian Dram",
+    "symbol": "AMD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "AOA",
+    "name": "Angolan Kwanza",
+    "symbol": "AOA",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ARS",
+    "name": "Argentine Peso",
+    "symbol": "ARS",
+    "updatedAt": "2026-06-10"
+  },
+  {
     "code": "AUD",
     "name": "Australian Dollar",
-    "symbol": "$",
-    "updatedAt": "2026-06-05"
+    "symbol": "A$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "AWG",
+    "name": "Aruban Florin",
+    "symbol": "AWG",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "AZN",
+    "name": "Azerbaijani Manat",
+    "symbol": "AZN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BAM",
+    "name": "Bosnia-Herzegovina Convertible Mark",
+    "symbol": "BAM",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BBD",
+    "name": "Barbadian Dollar",
+    "symbol": "BBD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BDT",
+    "name": "Bangladeshi Taka",
+    "symbol": "BDT",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "symbol": "BHD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BIF",
+    "name": "Burundian Franc",
+    "symbol": "BIF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BMD",
+    "name": "Bermudan Dollar",
+    "symbol": "BMD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BND",
+    "name": "Brunei Dollar",
+    "symbol": "BND",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BOB",
+    "name": "Bolivian Boliviano",
+    "symbol": "BOB",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "BRL",
     "name": "Brazilian Real",
     "symbol": "R$",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BSD",
+    "name": "Bahamian Dollar",
+    "symbol": "BSD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BTN",
+    "name": "Bhutanese Ngultrum",
+    "symbol": "BTN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BWP",
+    "name": "Botswanan Pula",
+    "symbol": "BWP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BYN",
+    "name": "Belarusian Ruble",
+    "symbol": "BYN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "BZD",
+    "name": "Belize Dollar",
+    "symbol": "BZD",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "CAD",
     "name": "Canadian Dollar",
-    "symbol": "$",
-    "updatedAt": "2026-06-05"
+    "symbol": "CA$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CDF",
+    "name": "Congolese Franc",
+    "symbol": "CDF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "symbol": "CHF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CLP",
+    "name": "Chilean Peso",
+    "symbol": "CLP",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "CNY",
     "name": "Chinese Yuan",
-    "symbol": "¥",
-    "updatedAt": "2026-06-05"
+    "symbol": "CN¥",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "COP",
+    "name": "Colombian Peso",
+    "symbol": "COP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rican Colón",
+    "symbol": "CRC",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CUP",
+    "name": "Cuban Peso",
+    "symbol": "CUP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CVE",
+    "name": "Cape Verdean Escudo",
+    "symbol": "CVE",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "symbol": "CZK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "DJF",
+    "name": "Djiboutian Franc",
+    "symbol": "DJF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "symbol": "DKK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "DOP",
+    "name": "Dominican Peso",
+    "symbol": "DOP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "DZD",
+    "name": "Algerian Dinar",
+    "symbol": "DZD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "EGP",
+    "name": "Egyptian Pound",
+    "symbol": "EGP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ERN",
+    "name": "Eritrean Nakfa",
+    "symbol": "ERN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ETB",
+    "name": "Ethiopian Birr",
+    "symbol": "ETB",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "EUR",
     "name": "Euro",
     "symbol": "€",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "FJD",
+    "name": "Fijian Dollar",
+    "symbol": "FJD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "FKP",
+    "name": "Falkland Islands Pound",
+    "symbol": "FKP",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "GBP",
-    "name": "British Pound Sterling",
+    "name": "British Pound",
     "symbol": "£",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GEL",
+    "name": "Georgian Lari",
+    "symbol": "GEL",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GHS",
+    "name": "Ghanaian Cedi",
+    "symbol": "GHS",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GIP",
+    "name": "Gibraltar Pound",
+    "symbol": "GIP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GMD",
+    "name": "Gambian Dalasi",
+    "symbol": "GMD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GNF",
+    "name": "Guinean Franc",
+    "symbol": "GNF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GTQ",
+    "name": "Guatemalan Quetzal",
+    "symbol": "GTQ",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "GYD",
+    "name": "Guyanaese Dollar",
+    "symbol": "GYD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "symbol": "HK$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "HNL",
+    "name": "Honduran Lempira",
+    "symbol": "HNL",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "HTG",
+    "name": "Haitian Gourde",
+    "symbol": "HTG",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "symbol": "HUF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "symbol": "IDR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli New Shekel",
+    "symbol": "₪",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "INR",
     "name": "Indian Rupee",
     "symbol": "₹",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "IQD",
+    "name": "Iraqi Dinar",
+    "symbol": "IQD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "IRR",
+    "name": "Iranian Rial",
+    "symbol": "IRR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic Króna",
+    "symbol": "ISK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "JMD",
+    "name": "Jamaican Dollar",
+    "symbol": "JMD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "JOD",
+    "name": "Jordanian Dinar",
+    "symbol": "JOD",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "JPY",
     "name": "Japanese Yen",
     "symbol": "¥",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KES",
+    "name": "Kenyan Shilling",
+    "symbol": "KES",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KGS",
+    "name": "Kyrgyz Som",
+    "symbol": "KGS",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KHR",
+    "name": "Cambodian Riel",
+    "symbol": "KHR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KMF",
+    "name": "Comorian Franc",
+    "symbol": "KMF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KPW",
+    "name": "North Korean Won",
+    "symbol": "KPW",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "symbol": "₩",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "symbol": "KWD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar",
+    "symbol": "KYD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "KZT",
+    "name": "Kazakhstani Tenge",
+    "symbol": "KZT",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "LAK",
+    "name": "Laotian Kip",
+    "symbol": "LAK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "LBP",
+    "name": "Lebanese Pound",
+    "symbol": "LBP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "symbol": "LKR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "LRD",
+    "name": "Liberian Dollar",
+    "symbol": "LRD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "LYD",
+    "name": "Libyan Dinar",
+    "symbol": "LYD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MAD",
+    "name": "Moroccan Dirham",
+    "symbol": "MAD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MDL",
+    "name": "Moldovan Leu",
+    "symbol": "MDL",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MGA",
+    "name": "Malagasy Ariary",
+    "symbol": "MGA",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MKD",
+    "name": "Macedonian Denar",
+    "symbol": "MKD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MMK",
+    "name": "Myanmar Kyat",
+    "symbol": "MMK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MNT",
+    "name": "Mongolian Tugrik",
+    "symbol": "MNT",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MOP",
+    "name": "Macanese Pataca",
+    "symbol": "MOP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MRU",
+    "name": "Mauritanian Ouguiya",
+    "symbol": "MRU",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritian Rupee",
+    "symbol": "MUR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MVR",
+    "name": "Maldivian Rufiyaa",
+    "symbol": "MVR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MWK",
+    "name": "Malawian Kwacha",
+    "symbol": "MWK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "symbol": "MX$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "symbol": "MYR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "MZN",
+    "name": "Mozambican Metical",
+    "symbol": "MZN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "NAD",
+    "name": "Namibian Dollar",
+    "symbol": "NAD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "NGN",
+    "name": "Nigerian Naira",
+    "symbol": "NGN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "NIO",
+    "name": "Nicaraguan Córdoba",
+    "symbol": "NIO",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "symbol": "NOK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "NPR",
+    "name": "Nepalese Rupee",
+    "symbol": "NPR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "symbol": "NZ$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "symbol": "OMR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PAB",
+    "name": "Panamanian Balboa",
+    "symbol": "PAB",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PEN",
+    "name": "Peruvian Sol",
+    "symbol": "PEN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PGK",
+    "name": "Papua New Guinean Kina",
+    "symbol": "PGK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "symbol": "₱",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PKR",
+    "name": "Pakistani Rupee",
+    "symbol": "PKR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "symbol": "PLN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "PYG",
+    "name": "Paraguayan Guarani",
+    "symbol": "PYG",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari Riyal",
+    "symbol": "QAR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "symbol": "RON",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "RSD",
+    "name": "Serbian Dinar",
+    "symbol": "RSD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "symbol": "RUB",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "RWF",
+    "name": "Rwandan Franc",
+    "symbol": "RWF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Riyal",
+    "symbol": "SAR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar",
+    "symbol": "SBD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SCR",
+    "name": "Seychellois Rupee",
+    "symbol": "SCR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SDG",
+    "name": "Sudanese Pound",
+    "symbol": "SDG",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "symbol": "SEK",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "symbol": "SGD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SHP",
+    "name": "St. Helena Pound",
+    "symbol": "SHP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SLE",
+    "name": "Sierra Leonean Leone",
+    "symbol": "SLE",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SOS",
+    "name": "Somali Shilling",
+    "symbol": "SOS",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SRD",
+    "name": "Surinamese Dollar",
+    "symbol": "SRD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SSP",
+    "name": "South Sudanese Pound",
+    "symbol": "SSP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "STN",
+    "name": "São Tomé & Príncipe Dobra",
+    "symbol": "STN",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SYP",
+    "name": "Syrian Pound",
+    "symbol": "SYP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "SZL",
+    "name": "Swazi Lilangeni",
+    "symbol": "SZL",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "THB",
+    "name": "Thai Baht",
+    "symbol": "THB",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TJS",
+    "name": "Tajikistani Somoni",
+    "symbol": "TJS",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TMT",
+    "name": "Turkmenistani Manat",
+    "symbol": "TMT",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TND",
+    "name": "Tunisian Dinar",
+    "symbol": "TND",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TOP",
+    "name": "Tongan Paʻanga",
+    "symbol": "TOP",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "symbol": "TRY",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TTD",
+    "name": "Trinidad & Tobago Dollar",
+    "symbol": "TTD",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TWD",
+    "name": "New Taiwan Dollar",
+    "symbol": "NT$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "TZS",
+    "name": "Tanzanian Shilling",
+    "symbol": "TZS",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "UAH",
+    "name": "Ukrainian Hryvnia",
+    "symbol": "UAH",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "UGX",
+    "name": "Ugandan Shilling",
+    "symbol": "UGX",
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "USD",
-    "name": "United States Dollar",
+    "name": "US Dollar",
     "symbol": "$",
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "UYU",
+    "name": "Uruguayan Peso",
+    "symbol": "UYU",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "UZS",
+    "name": "Uzbekistani Som",
+    "symbol": "UZS",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "VES",
+    "name": "Venezuelan Bolívar",
+    "symbol": "VES",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "VND",
+    "name": "Vietnamese Dong",
+    "symbol": "₫",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "VUV",
+    "name": "Vanuatu Vatu",
+    "symbol": "VUV",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "WST",
+    "name": "Samoan Tala",
+    "symbol": "WST",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "symbol": "FCFA",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "symbol": "EC$",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "XCG",
+    "name": "Caribbean guilder",
+    "symbol": "Cg.",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "symbol": "F CFA",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "symbol": "CFPF",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "XXX",
+    "name": "Unknown Currency",
+    "symbol": "¤",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "YER",
+    "name": "Yemeni Rial",
+    "symbol": "YER",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "symbol": "ZAR",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ZMW",
+    "name": "Zambian Kwacha",
+    "symbol": "ZMW",
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "code": "ZWG",
+    "name": "Zimbabwean Gold",
+    "symbol": "ZWG",
+    "updatedAt": "2026-06-10"
   }
 ]

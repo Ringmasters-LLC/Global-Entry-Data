@@ -1,27 +1,1724 @@
 [
   {
+    "iso2": "AD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AED",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AFN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ALL",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AMD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AOA",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AQ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XXX",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ARS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AWG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AX",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AZN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BAM",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BB",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BBD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BDT",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BHD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BIF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BJ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BMD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BND",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BOB",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BRL",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BSD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BTN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BWP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BYN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "BZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
     "iso2": "CA",
-    "primaryCurrency": "CAD",
-    "updatedAt": "2026-06-05"
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CAD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CDF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XAF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XAF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CHF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CLP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XAF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CNY",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "COP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CRC",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CUP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CV",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CVE",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CX",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CZK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DE",
-    "primaryCurrency": "EUR",
-    "updatedAt": "2026-06-05"
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DJ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "DJF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "DKK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "DOP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "DZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EGP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MAD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ER",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ERN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ES",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ET",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ETB",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FJ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "FJD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "FKP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "DKK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FR",
-    "primaryCurrency": "EUR",
-    "updatedAt": "2026-06-05"
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XAF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GB",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GBP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GEL",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GBP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GHS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GIP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "DKK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GMD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GNF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GP",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GQ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XAF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GBP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GTQ",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GYD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "HKD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "HNL",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "HTG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "HUF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ID",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "IDR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ILS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GBP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "INR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IQ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "IQD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "IRR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ISK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "JE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "GBP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "JM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "JMD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "JO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "JOD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "JP",
-    "primaryCurrency": "JPY",
-    "updatedAt": "2026-06-05"
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "JPY",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KES",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KGS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KHR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KMF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KP",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KPW",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KRW",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KWD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KYD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "KZT",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "LAK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LB",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "LBP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "CHF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "LKR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "LRD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ZAR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LV",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "LYD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MAD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MDL",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ME",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MGA",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MKD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ML",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MMK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MNT",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MOP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MP",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MQ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MRU",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MV",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MVR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MWK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MX",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MXN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MYR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "MZN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NAD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XPF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NGN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NIO",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NOK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NP",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NPR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "OM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "OMR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PAB",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PEN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XPF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PGK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PHP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PKR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PLN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ILS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "PYG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "QA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "QAR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "RON",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "RSD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "RUB",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "RWF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SAR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SB",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SBD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SCR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SDG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SEK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SGD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SHP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SJ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NOK",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SLE",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SOS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SRD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SSP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ST",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "STN",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SV",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SX",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SYP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "SZL",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TD",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XAF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XOF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TH",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "THB",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TJ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TJS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TK",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "NZD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TL",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TMT",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TND",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TO",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TOP",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TR",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TRY",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TTD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TV",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "AUD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TWD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "TZS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "UAH",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "UGX",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "US",
-    "primaryCurrency": "USD",
-    "updatedAt": "2026-06-05"
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UY",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "UYU",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UZ",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "UZS",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VC",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XCD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "VES",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VG",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VI",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "USD",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VN",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "VND",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VU",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "VUV",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "WF",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "XPF",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "WS",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "WST",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "YE",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "YER",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "YT",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "EUR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ZA",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ZAR",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ZM",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ZMW",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ZW",
+    "supportsMultiCurrency": false,
+    "settlementCurrency": "ZWG",
+    "minorUnits": 2,
+    "updatedAt": "2026-06-10"
   }
 ]

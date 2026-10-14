@@ -3,26 +3,26 @@
     "iso2": "JP",
     "components": [
       "postalCode",
-      "state",
-      "city",
+      "administrativeArea",
+      "locality",
       "addressLine1",
       "addressLine2"
     ],
     "order": "large_to_small",
     "streetAddressCentral": false,
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-08"
   },
   {
     "iso2": "US",
     "components": [
       "addressLine1",
       "addressLine2",
-      "city",
-      "state",
+      "locality",
+      "administrativeArea",
       "postalCode"
     ],
     "order": "small_to_large",
     "streetAddressCentral": true,
-    "updatedAt": "2026-06-05"
+    "updatedAt": "2026-06-08"
   }
 ]

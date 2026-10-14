@@ -7,8 +7,10 @@
     "weight": "kilogram",
     "height": "centimeter",
     "paperSize": "A-series",
-    "confidence": 1.0,
-    "sources": ["CLDR"],
+    "confidence": 1,
+    "sources": [
+      "CLDR"
+    ],
     "updatedAt": "2026-06-08"
   },
   {
@@ -20,7 +22,10 @@
     "height": "centimeter",
     "paperSize": "Letter",
     "confidence": 0.9,
-    "sources": ["CLDR", "Manual Review"],
+    "sources": [
+      "CLDR",
+      "Manual Review"
+    ],
     "updatedAt": "2026-06-08"
   },
   {
@@ -31,8 +36,10 @@
     "weight": "kilogram",
     "height": "centimeter",
     "paperSize": "A-series",
-    "confidence": 1.0,
-    "sources": ["CLDR"],
+    "confidence": 1,
+    "sources": [
+      "CLDR"
+    ],
     "updatedAt": "2026-06-08"
   },
   {
@@ -43,8 +50,10 @@
     "weight": "kilogram",
     "height": "centimeter",
     "paperSize": "A-series",
-    "confidence": 1.0,
-    "sources": ["CLDR"],
+    "confidence": 1,
+    "sources": [
+      "CLDR"
+    ],
     "updatedAt": "2026-06-08"
   },
   {
@@ -56,7 +65,10 @@
     "height": "centimeter",
     "paperSize": "A-series",
     "confidence": 0.9,
-    "sources": ["CLDR", "Manual Review"],
+    "sources": [
+      "CLDR",
+      "Manual Review"
+    ],
     "updatedAt": "2026-06-08"
   },
   {
@@ -67,9 +79,14 @@
     "weight": "kilogram",
     "height": "centimeter",
     "paperSize": "A-series",
-    "traditionalSystems": ["japanese_traditional"],
-    "confidence": 1.0,
-    "sources": ["CLDR", "Manual Review"],
+    "traditionalSystems": [
+      "japanese_traditional"
+    ],
+    "confidence": 1,
+    "sources": [
+      "CLDR",
+      "Manual Review"
+    ],
     "updatedAt": "2026-06-08"
   },
   {
@@ -80,8 +97,10 @@
     "weight": "pound",
     "height": "foot",
     "paperSize": "Letter",
-    "confidence": 1.0,
-    "sources": ["CLDR"],
+    "confidence": 1,
+    "sources": [
+      "CLDR"
+    ],
     "updatedAt": "2026-06-08"
   }
 ]

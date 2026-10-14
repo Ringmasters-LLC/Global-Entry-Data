@@ -3,64 +3,120 @@
     "code": "de",
     "names": {
       "en": "German",
-      "ja": "ドイツ語"
+      "ja": "ドイツ語",
+      "fr": "allemand",
+      "de": "Deutsch",
+      "it": "tedesco",
+      "es": "alemán",
+      "zh": "德语",
+      "ar": "الألمانية",
+      "he": "גרמנית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "en",
     "names": {
       "en": "English",
-      "ja": "英語"
+      "ja": "英語",
+      "fr": "anglais",
+      "de": "Englisch",
+      "it": "inglese",
+      "es": "inglés",
+      "zh": "英语",
+      "ar": "الإنجليزية",
+      "he": "אנגלית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "es",
     "names": {
       "en": "Spanish",
-      "ja": "スペイン語"
+      "ja": "スペイン語",
+      "fr": "espagnol",
+      "de": "Spanisch",
+      "it": "spagnolo",
+      "es": "español",
+      "zh": "西班牙语",
+      "ar": "الإسبانية",
+      "he": "ספרדית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "fr",
     "names": {
       "en": "French",
-      "ja": "フランス語"
+      "ja": "フランス語",
+      "fr": "français",
+      "de": "Französisch",
+      "it": "francese",
+      "es": "francés",
+      "zh": "法语",
+      "ar": "الفرنسية",
+      "he": "צרפתית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "hi",
     "names": {
       "en": "Hindi",
-      "ja": "ヒンディー語"
+      "ja": "ヒンディー語",
+      "fr": "hindi",
+      "de": "Hindi",
+      "it": "hindi",
+      "es": "hindi",
+      "zh": "印地语",
+      "ar": "الهندية",
+      "he": "הינדי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "ja",
     "names": {
       "en": "Japanese",
-      "ja": "日本語"
+      "ja": "日本語",
+      "fr": "japonais",
+      "de": "Japanisch",
+      "it": "giapponese",
+      "es": "japonés",
+      "zh": "日语",
+      "ar": "اليابانية",
+      "he": "יפנית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "pt",
     "names": {
       "en": "Portuguese",
-      "ja": "ポルトガル語"
+      "ja": "ポルトガル語",
+      "fr": "portugais",
+      "de": "Portugiesisch",
+      "it": "portoghese",
+      "es": "portugués",
+      "zh": "葡萄牙语",
+      "ar": "البرتغالية",
+      "he": "פורטוגזית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "code": "zh",
     "names": {
       "en": "Chinese",
-      "ja": "中国語"
+      "ja": "中国語",
+      "fr": "chinois",
+      "de": "Chinesisch",
+      "it": "cinese",
+      "es": "chino",
+      "zh": "中文",
+      "ar": "الصينية",
+      "he": "סינית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   }
 ]

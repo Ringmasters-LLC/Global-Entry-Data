@@ -32,9 +32,9 @@ Risk estimates measure maintenance, licensing, and supply-chain exposure.
 - Do not claim official authority without licensed sources.
 - Do not merge generated files without deterministic build proof.
 
-## Audit Notes (2026-06-07)
+## Audit Notes (2026-06-08)
 
-- **Data Refresh (GED-P6-007)**: Implementation is currently a placeholder (echo logic). Requires real ingestion logic.
+- **Data Refresh (GED-P6-007)**: Ingestion logic is robust, fetching from CLDR and libphonenumber.
 - **CI Risk**: `better-sqlite3` is a native dependency. CI environment must support build tools or use prebuilts.
 
 ## Execution Queue

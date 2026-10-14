@@ -3,1968 +3,3690 @@
     "iso2": "AD",
     "names": {
       "en": "Andorra",
-      "ja": "アンドラ"
+      "ja": "アンドラ",
+      "fr": "Andorre",
+      "de": "Andorra",
+      "it": "Andorra",
+      "es": "Andorra",
+      "zh": "安道尔",
+      "ar": "أندورا",
+      "he": "אנדורה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AE",
     "names": {
       "en": "United Arab Emirates",
-      "ja": "アラブ首長国連邦"
+      "ja": "アラブ首長国連邦",
+      "fr": "Émirats arabes unis",
+      "de": "Vereinigte Arabische Emirate",
+      "it": "Emirati Arabi Uniti",
+      "es": "Emiratos Árabes Unidos",
+      "zh": "阿拉伯联合酋长国",
+      "ar": "الإمارات العربية المتحدة",
+      "he": "איחוד האמירויות הערביות"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AF",
     "names": {
       "en": "Afghanistan",
-      "ja": "アフガニスタン"
+      "ja": "アフガニスタン",
+      "fr": "Afghanistan",
+      "de": "Afghanistan",
+      "it": "Afghanistan",
+      "es": "Afganistán",
+      "zh": "阿富汗",
+      "ar": "أفغانستان",
+      "he": "אפגניסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AG",
     "names": {
       "en": "Antigua & Barbuda",
-      "ja": "アンティグア・バーブーダ"
+      "ja": "アンティグア・バーブーダ",
+      "fr": "Antigua-et-Barbuda",
+      "de": "Antigua und Barbuda",
+      "it": "Antigua e Barbuda",
+      "es": "Antigua y Barbuda",
+      "zh": "安提瓜和巴布达",
+      "ar": "أنتيغوا وبربودا",
+      "he": "אנטיגואה וברבודה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AI",
     "names": {
       "en": "Anguilla",
-      "ja": "アンギラ"
+      "ja": "アンギラ",
+      "fr": "Anguilla",
+      "de": "Anguilla",
+      "it": "Anguilla",
+      "es": "Anguila",
+      "zh": "安圭拉",
+      "ar": "أنغويلا",
+      "he": "אנגווילה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AL",
     "names": {
       "en": "Albania",
-      "ja": "アルバニア"
+      "ja": "アルバニア",
+      "fr": "Albanie",
+      "de": "Albanien",
+      "it": "Albania",
+      "es": "Albania",
+      "zh": "阿尔巴尼亚",
+      "ar": "ألبانيا",
+      "he": "אלבניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AM",
     "names": {
       "en": "Armenia",
-      "ja": "アルメニア"
+      "ja": "アルメニア",
+      "fr": "Arménie",
+      "de": "Armenien",
+      "it": "Armenia",
+      "es": "Armenia",
+      "zh": "亚美尼亚",
+      "ar": "أرمينيا",
+      "he": "ארמניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AO",
     "names": {
       "en": "Angola",
-      "ja": "アンゴラ"
+      "ja": "アンゴラ",
+      "fr": "Angola",
+      "de": "Angola",
+      "it": "Angola",
+      "es": "Angola",
+      "zh": "安哥拉",
+      "ar": "أنغولا",
+      "he": "אנגולה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AQ",
     "names": {
       "en": "Antarctica",
-      "ja": "南極"
+      "ja": "南極",
+      "fr": "Antarctique",
+      "de": "Antarktis",
+      "it": "Antartide",
+      "es": "Antártida",
+      "zh": "南极洲",
+      "ar": "أنتاركتيكا",
+      "he": "אנטארקטיקה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AR",
     "names": {
       "en": "Argentina",
-      "ja": "アルゼンチン"
+      "ja": "アルゼンチン",
+      "fr": "Argentine",
+      "de": "Argentinien",
+      "it": "Argentina",
+      "es": "Argentina",
+      "zh": "阿根廷",
+      "ar": "الأرجنتين",
+      "he": "ארגנטינה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AS",
     "names": {
       "en": "American Samoa",
-      "ja": "米領サモア"
+      "ja": "米領サモア",
+      "fr": "Samoa américaines",
+      "de": "Amerikanisch-Samoa",
+      "it": "Samoa Americane",
+      "es": "Samoa Americana",
+      "zh": "美属萨摩亚",
+      "ar": "ساموا الأمريكية",
+      "he": "סמואה האמריקנית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AT",
     "names": {
       "en": "Austria",
-      "ja": "オーストリア"
+      "ja": "オーストリア",
+      "fr": "Autriche",
+      "de": "Österreich",
+      "it": "Austria",
+      "es": "Austria",
+      "zh": "奥地利",
+      "ar": "النمسا",
+      "he": "אוסטריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AU",
     "names": {
       "en": "Australia",
-      "ja": "オーストラリア"
+      "ja": "オーストラリア",
+      "fr": "Australie",
+      "de": "Australien",
+      "it": "Australia",
+      "es": "Australia",
+      "zh": "澳大利亚",
+      "ar": "أستراليا",
+      "he": "אוסטרליה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AW",
     "names": {
       "en": "Aruba",
-      "ja": "アルバ"
+      "ja": "アルバ",
+      "fr": "Aruba",
+      "de": "Aruba",
+      "it": "Aruba",
+      "es": "Aruba",
+      "zh": "阿鲁巴",
+      "ar": "أروبا",
+      "he": "ארובה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AX",
     "names": {
       "en": "Åland Islands",
-      "ja": "オーランド諸島"
+      "ja": "オーランド諸島",
+      "fr": "Îles Åland",
+      "de": "Ålandinseln",
+      "it": "Isole Åland",
+      "es": "Islas Aland",
+      "zh": "奥兰群岛",
+      "ar": "جزر آلاند",
+      "he": "איי אולנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "AZ",
     "names": {
       "en": "Azerbaijan",
-      "ja": "アゼルバイジャン"
+      "ja": "アゼルバイジャン",
+      "fr": "Azerbaïdjan",
+      "de": "Aserbaidschan",
+      "it": "Azerbaigian",
+      "es": "Azerbaiyán",
+      "zh": "阿塞拜疆",
+      "ar": "أذربيجان",
+      "he": "אזרבייג׳ן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BA",
     "names": {
       "en": "Bosnia & Herzegovina",
-      "ja": "ボスニア・ヘルツェゴビナ"
+      "ja": "ボスニア・ヘルツェゴビナ",
+      "fr": "Bosnie-Herzégovine",
+      "de": "Bosnien und Herzegowina",
+      "it": "Bosnia ed Erzegovina",
+      "es": "Bosnia y Herzegovina",
+      "zh": "波斯尼亚和黑塞哥维那",
+      "ar": "البوسنة والهرسك",
+      "he": "בוסניה והרצגובינה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BB",
     "names": {
       "en": "Barbados",
-      "ja": "バルバドス"
+      "ja": "バルバドス",
+      "fr": "Barbade",
+      "de": "Barbados",
+      "it": "Barbados",
+      "es": "Barbados",
+      "zh": "巴巴多斯",
+      "ar": "بربادوس",
+      "he": "ברבדוס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BD",
     "names": {
       "en": "Bangladesh",
-      "ja": "バングラデシュ"
+      "ja": "バングラデシュ",
+      "fr": "Bangladesh",
+      "de": "Bangladesch",
+      "it": "Bangladesh",
+      "es": "Bangladés",
+      "zh": "孟加拉国",
+      "ar": "بنغلاديش",
+      "he": "בנגלדש"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BE",
     "names": {
       "en": "Belgium",
-      "ja": "ベルギー"
+      "ja": "ベルギー",
+      "fr": "Belgique",
+      "de": "Belgien",
+      "it": "Belgio",
+      "es": "Bélgica",
+      "zh": "比利时",
+      "ar": "بلجيكا",
+      "he": "בלגיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BF",
     "names": {
       "en": "Burkina Faso",
-      "ja": "ブルキナファソ"
+      "ja": "ブルキナファソ",
+      "fr": "Burkina Faso",
+      "de": "Burkina Faso",
+      "it": "Burkina Faso",
+      "es": "Burkina Faso",
+      "zh": "布基纳法索",
+      "ar": "بوركينا فاسو",
+      "he": "בורקינה פאסו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BG",
     "names": {
       "en": "Bulgaria",
-      "ja": "ブルガリア"
+      "ja": "ブルガリア",
+      "fr": "Bulgarie",
+      "de": "Bulgarien",
+      "it": "Bulgaria",
+      "es": "Bulgaria",
+      "zh": "保加利亚",
+      "ar": "بلغاريا",
+      "he": "בולגריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BH",
     "names": {
       "en": "Bahrain",
-      "ja": "バーレーン"
+      "ja": "バーレーン",
+      "fr": "Bahreïn",
+      "de": "Bahrain",
+      "it": "Bahrein",
+      "es": "Baréin",
+      "zh": "巴林",
+      "ar": "البحرين",
+      "he": "בחריין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BI",
     "names": {
       "en": "Burundi",
-      "ja": "ブルンジ"
+      "ja": "ブルンジ",
+      "fr": "Burundi",
+      "de": "Burundi",
+      "it": "Burundi",
+      "es": "Burundi",
+      "zh": "布隆迪",
+      "ar": "بوروندي",
+      "he": "בורונדי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BJ",
     "names": {
       "en": "Benin",
-      "ja": "ベナン"
+      "ja": "ベナン",
+      "fr": "Bénin",
+      "de": "Benin",
+      "it": "Benin",
+      "es": "Benín",
+      "zh": "贝宁",
+      "ar": "بنين",
+      "he": "בנין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BL",
     "names": {
       "en": "St. Barthélemy",
-      "ja": "サン・バルテルミー"
+      "ja": "サン・バルテルミー",
+      "fr": "Saint-Barthélemy",
+      "de": "St. Barthélemy",
+      "it": "Saint-Barthélemy",
+      "es": "San Bartolomé",
+      "zh": "圣巴泰勒米",
+      "ar": "سان بارتليمي",
+      "he": "סנט ברתולומיאו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BM",
     "names": {
       "en": "Bermuda",
-      "ja": "バミューダ"
+      "ja": "バミューダ",
+      "fr": "Bermudes",
+      "de": "Bermuda",
+      "it": "Bermuda",
+      "es": "Bermudas",
+      "zh": "百慕大",
+      "ar": "برمودا",
+      "he": "ברמודה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BN",
     "names": {
       "en": "Brunei",
-      "ja": "ブルネイ"
+      "ja": "ブルネイ",
+      "fr": "Brunei",
+      "de": "Brunei Darussalam",
+      "it": "Brunei",
+      "es": "Brunéi",
+      "zh": "文莱",
+      "ar": "بروناي",
+      "he": "ברוניי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BO",
     "names": {
       "en": "Bolivia",
-      "ja": "ボリビア"
+      "ja": "ボリビア",
+      "fr": "Bolivie",
+      "de": "Bolivien",
+      "it": "Bolivia",
+      "es": "Bolivia",
+      "zh": "玻利维亚",
+      "ar": "بوليفيا",
+      "he": "בוליביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BR",
     "names": {
       "en": "Brazil",
-      "ja": "ブラジル"
+      "ja": "ブラジル",
+      "fr": "Brésil",
+      "de": "Brasilien",
+      "it": "Brasile",
+      "es": "Brasil",
+      "zh": "巴西",
+      "ar": "البرازيل",
+      "he": "ברזיל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BS",
     "names": {
       "en": "Bahamas",
-      "ja": "バハマ"
+      "ja": "バハマ",
+      "fr": "Bahamas",
+      "de": "Bahamas",
+      "it": "Bahamas",
+      "es": "Bahamas",
+      "zh": "巴哈马",
+      "ar": "جزر البهاما",
+      "he": "איי בהאמה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BT",
     "names": {
       "en": "Bhutan",
-      "ja": "ブータン"
+      "ja": "ブータン",
+      "fr": "Bhoutan",
+      "de": "Bhutan",
+      "it": "Bhutan",
+      "es": "Bután",
+      "zh": "不丹",
+      "ar": "بوتان",
+      "he": "בהוטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BW",
     "names": {
       "en": "Botswana",
-      "ja": "ボツワナ"
+      "ja": "ボツワナ",
+      "fr": "Botswana",
+      "de": "Botsuana",
+      "it": "Botswana",
+      "es": "Botsuana",
+      "zh": "博茨瓦纳",
+      "ar": "بوتسوانا",
+      "he": "בוטסואנה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BY",
     "names": {
       "en": "Belarus",
-      "ja": "ベラルーシ"
+      "ja": "ベラルーシ",
+      "fr": "Biélorussie",
+      "de": "Belarus",
+      "it": "Bielorussia",
+      "es": "Bielorrusia",
+      "zh": "白俄罗斯",
+      "ar": "بيلاروس",
+      "he": "בלארוס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "BZ",
     "names": {
       "en": "Belize",
-      "ja": "ベリーズ"
+      "ja": "ベリーズ",
+      "fr": "Belize",
+      "de": "Belize",
+      "it": "Belize",
+      "es": "Belice",
+      "zh": "伯利兹",
+      "ar": "بليز",
+      "he": "בליז"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CA",
     "names": {
       "en": "Canada",
-      "ja": "カナダ"
+      "ja": "カナダ",
+      "fr": "Canada",
+      "de": "Kanada",
+      "it": "Canada",
+      "es": "Canadá",
+      "zh": "加拿大",
+      "ar": "كندا",
+      "he": "קנדה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CC",
     "names": {
       "en": "Cocos (Keeling) Islands",
-      "ja": "ココス(キーリング)諸島"
+      "ja": "ココス(キーリング)諸島",
+      "fr": "Îles Cocos",
+      "de": "Kokosinseln",
+      "it": "Isole Cocos (Keeling)",
+      "es": "Islas Cocos",
+      "zh": "科科斯（基林）群岛",
+      "ar": "جزر كوكوس (كيلينغ)",
+      "he": "איי קוקוס (קילינג)"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CD",
     "names": {
       "en": "Congo - Kinshasa",
-      "ja": "コンゴ民主共和国(キンシャサ)"
+      "ja": "コンゴ民主共和国(キンシャサ)",
+      "fr": "Congo-Kinshasa",
+      "de": "Kongo-Kinshasa",
+      "it": "Congo - Kinshasa",
+      "es": "República Democrática del Congo",
+      "zh": "刚果（金）",
+      "ar": "الكونغو - كينشاسا",
+      "he": "קונגו - קינשאסה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CF",
     "names": {
       "en": "Central African Republic",
-      "ja": "中央アフリカ共和国"
+      "ja": "中央アフリカ共和国",
+      "fr": "République centrafricaine",
+      "de": "Zentralafrikanische Republik",
+      "it": "Repubblica Centrafricana",
+      "es": "República Centroafricana",
+      "zh": "中非共和国",
+      "ar": "جمهورية أفريقيا الوسطى",
+      "he": "הרפובליקה המרכז-אפריקאית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CG",
     "names": {
       "en": "Congo - Brazzaville",
-      "ja": "コンゴ共和国(ブラザビル)"
+      "ja": "コンゴ共和国(ブラザビル)",
+      "fr": "Congo-Brazzaville",
+      "de": "Kongo-Brazzaville",
+      "it": "Congo-Brazzaville",
+      "es": "Congo",
+      "zh": "刚果（布）",
+      "ar": "الكونغو - برازافيل",
+      "he": "קונגו - ברזאויל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CH",
     "names": {
       "en": "Switzerland",
-      "ja": "スイス"
+      "ja": "スイス",
+      "fr": "Suisse",
+      "de": "Schweiz",
+      "it": "Svizzera",
+      "es": "Suiza",
+      "zh": "瑞士",
+      "ar": "سويسرا",
+      "he": "שווייץ"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CI",
     "names": {
       "en": "Côte d’Ivoire",
-      "ja": "コートジボワール"
+      "ja": "コートジボワール",
+      "fr": "Côte d’Ivoire",
+      "de": "Côte d’Ivoire",
+      "it": "Costa d’Avorio",
+      "es": "Côte d’Ivoire",
+      "zh": "科特迪瓦",
+      "ar": "ساحل العاج",
+      "he": "חוף השנהב"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CK",
     "names": {
       "en": "Cook Islands",
-      "ja": "クック諸島"
+      "ja": "クック諸島",
+      "fr": "Îles Cook",
+      "de": "Cookinseln",
+      "it": "Isole Cook",
+      "es": "Islas Cook",
+      "zh": "库克群岛",
+      "ar": "جزر كوك",
+      "he": "איי קוק"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CL",
     "names": {
       "en": "Chile",
-      "ja": "チリ"
+      "ja": "チリ",
+      "fr": "Chili",
+      "de": "Chile",
+      "it": "Cile",
+      "es": "Chile",
+      "zh": "智利",
+      "ar": "تشيلي",
+      "he": "צ׳ילה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CM",
     "names": {
       "en": "Cameroon",
-      "ja": "カメルーン"
+      "ja": "カメルーン",
+      "fr": "Cameroun",
+      "de": "Kamerun",
+      "it": "Camerun",
+      "es": "Camerún",
+      "zh": "喀麦隆",
+      "ar": "الكاميرون",
+      "he": "קמרון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CN",
     "names": {
       "en": "China",
-      "ja": "中国"
+      "ja": "中国",
+      "fr": "Chine",
+      "de": "China",
+      "it": "Cina",
+      "es": "China",
+      "zh": "中国",
+      "ar": "الصين",
+      "he": "סין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CO",
     "names": {
       "en": "Colombia",
-      "ja": "コロンビア"
+      "ja": "コロンビア",
+      "fr": "Colombie",
+      "de": "Kolumbien",
+      "it": "Colombia",
+      "es": "Colombia",
+      "zh": "哥伦比亚",
+      "ar": "كولومبيا",
+      "he": "קולומביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CR",
     "names": {
       "en": "Costa Rica",
-      "ja": "コスタリカ"
+      "ja": "コスタリカ",
+      "fr": "Costa Rica",
+      "de": "Costa Rica",
+      "it": "Costa Rica",
+      "es": "Costa Rica",
+      "zh": "哥斯达黎加",
+      "ar": "كوستاريكا",
+      "he": "קוסטה ריקה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CU",
     "names": {
       "en": "Cuba",
-      "ja": "キューバ"
+      "ja": "キューバ",
+      "fr": "Cuba",
+      "de": "Kuba",
+      "it": "Cuba",
+      "es": "Cuba",
+      "zh": "古巴",
+      "ar": "كوبا",
+      "he": "קובה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CV",
     "names": {
       "en": "Cape Verde",
-      "ja": "カーボベルデ"
+      "ja": "カーボベルデ",
+      "fr": "Cap-Vert",
+      "de": "Cabo Verde",
+      "it": "Capo Verde",
+      "es": "Cabo Verde",
+      "zh": "佛得角",
+      "ar": "الرأس الأخضر",
+      "he": "כף ורדה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CW",
     "names": {
       "en": "Curaçao",
-      "ja": "キュラソー"
+      "ja": "キュラソー",
+      "fr": "Curaçao",
+      "de": "Curaçao",
+      "it": "Curaçao",
+      "es": "Curazao",
+      "zh": "库拉索",
+      "ar": "كوراساو",
+      "he": "קוראסאו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CX",
     "names": {
       "en": "Christmas Island",
-      "ja": "クリスマス島"
+      "ja": "クリスマス島",
+      "fr": "Île Christmas",
+      "de": "Weihnachtsinsel",
+      "it": "Isola Christmas",
+      "es": "Isla de Navidad",
+      "zh": "圣诞岛",
+      "ar": "جزيرة كريسماس",
+      "he": "אי חג המולד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CY",
     "names": {
       "en": "Cyprus",
-      "ja": "キプロス"
+      "ja": "キプロス",
+      "fr": "Chypre",
+      "de": "Zypern",
+      "it": "Cipro",
+      "es": "Chipre",
+      "zh": "塞浦路斯",
+      "ar": "قبرص",
+      "he": "קפריסין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "CZ",
     "names": {
       "en": "Czechia",
-      "ja": "チェコ"
+      "ja": "チェコ",
+      "fr": "Tchéquie",
+      "de": "Tschechien",
+      "it": "Cechia",
+      "es": "Chequia",
+      "zh": "捷克",
+      "ar": "التشيك",
+      "he": "צ׳כיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DE",
     "names": {
       "en": "Germany",
-      "ja": "ドイツ"
+      "ja": "ドイツ",
+      "fr": "Allemagne",
+      "de": "Deutschland",
+      "it": "Germania",
+      "es": "Alemania",
+      "zh": "德国",
+      "ar": "ألمانيا",
+      "he": "גרמניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DJ",
     "names": {
       "en": "Djibouti",
-      "ja": "ジブチ"
+      "ja": "ジブチ",
+      "fr": "Djibouti",
+      "de": "Dschibuti",
+      "it": "Gibuti",
+      "es": "Yibuti",
+      "zh": "吉布提",
+      "ar": "جيبوتي",
+      "he": "ג׳יבוטי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DK",
     "names": {
       "en": "Denmark",
-      "ja": "デンマーク"
+      "ja": "デンマーク",
+      "fr": "Danemark",
+      "de": "Dänemark",
+      "it": "Danimarca",
+      "es": "Dinamarca",
+      "zh": "丹麦",
+      "ar": "الدانمرك",
+      "he": "דנמרק"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DM",
     "names": {
       "en": "Dominica",
-      "ja": "ドミニカ国"
+      "ja": "ドミニカ国",
+      "fr": "Dominique",
+      "de": "Dominica",
+      "it": "Dominica",
+      "es": "Dominica",
+      "zh": "多米尼克",
+      "ar": "دومينيكا",
+      "he": "דומיניקה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DO",
     "names": {
       "en": "Dominican Republic",
-      "ja": "ドミニカ共和国"
+      "ja": "ドミニカ共和国",
+      "fr": "République dominicaine",
+      "de": "Dominikanische Republik",
+      "it": "Repubblica Dominicana",
+      "es": "República Dominicana",
+      "zh": "多米尼加共和国",
+      "ar": "جمهورية الدومينيكان",
+      "he": "הרפובליקה הדומיניקנית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "DZ",
     "names": {
       "en": "Algeria",
-      "ja": "アルジェリア"
+      "ja": "アルジェリア",
+      "fr": "Algérie",
+      "de": "Algerien",
+      "it": "Algeria",
+      "es": "Argelia",
+      "zh": "阿尔及利亚",
+      "ar": "الجزائر",
+      "he": "אלג׳יריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "EC",
     "names": {
       "en": "Ecuador",
-      "ja": "エクアドル"
+      "ja": "エクアドル",
+      "fr": "Équateur",
+      "de": "Ecuador",
+      "it": "Ecuador",
+      "es": "Ecuador",
+      "zh": "厄瓜多尔",
+      "ar": "الإكوادور",
+      "he": "אקוודור"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "EE",
     "names": {
       "en": "Estonia",
-      "ja": "エストニア"
+      "ja": "エストニア",
+      "fr": "Estonie",
+      "de": "Estland",
+      "it": "Estonia",
+      "es": "Estonia",
+      "zh": "爱沙尼亚",
+      "ar": "إستونيا",
+      "he": "אסטוניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "EG",
     "names": {
       "en": "Egypt",
-      "ja": "エジプト"
+      "ja": "エジプト",
+      "fr": "Égypte",
+      "de": "Ägypten",
+      "it": "Egitto",
+      "es": "Egipto",
+      "zh": "埃及",
+      "ar": "مصر",
+      "he": "מצרים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "EH",
     "names": {
       "en": "Western Sahara",
-      "ja": "西サハラ"
+      "ja": "西サハラ",
+      "fr": "Sahara occidental",
+      "de": "Westsahara",
+      "it": "Sahara Occidentale",
+      "es": "Sáhara Occidental",
+      "zh": "西撒哈拉",
+      "ar": "الصحراء الغربية",
+      "he": "סהרה המערבית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ER",
     "names": {
       "en": "Eritrea",
-      "ja": "エリトリア"
+      "ja": "エリトリア",
+      "fr": "Érythrée",
+      "de": "Eritrea",
+      "it": "Eritrea",
+      "es": "Eritrea",
+      "zh": "厄立特里亚",
+      "ar": "إريتريا",
+      "he": "אריתריאה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ES",
     "names": {
       "en": "Spain",
-      "ja": "スペイン"
+      "ja": "スペイン",
+      "fr": "Espagne",
+      "de": "Spanien",
+      "it": "Spagna",
+      "es": "España",
+      "zh": "西班牙",
+      "ar": "إسبانيا",
+      "he": "ספרד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ET",
     "names": {
       "en": "Ethiopia",
-      "ja": "エチオピア"
+      "ja": "エチオピア",
+      "fr": "Éthiopie",
+      "de": "Äthiopien",
+      "it": "Etiopia",
+      "es": "Etiopía",
+      "zh": "埃塞俄比亚",
+      "ar": "إثيوبيا",
+      "he": "אתיופיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FI",
     "names": {
       "en": "Finland",
-      "ja": "フィンランド"
+      "ja": "フィンランド",
+      "fr": "Finlande",
+      "de": "Finnland",
+      "it": "Finlandia",
+      "es": "Finlandia",
+      "zh": "芬兰",
+      "ar": "فنلندا",
+      "he": "פינלנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FJ",
     "names": {
       "en": "Fiji",
-      "ja": "フィジー"
+      "ja": "フィジー",
+      "fr": "Fidji",
+      "de": "Fidschi",
+      "it": "Figi",
+      "es": "Fiyi",
+      "zh": "斐济",
+      "ar": "فيجي",
+      "he": "פיג׳י"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FK",
     "names": {
       "en": "Falkland Islands",
-      "ja": "フォークランド諸島"
+      "ja": "フォークランド諸島",
+      "fr": "Îles Malouines",
+      "de": "Falklandinseln",
+      "it": "Isole Falkland",
+      "es": "Islas Malvinas",
+      "zh": "福克兰群岛",
+      "ar": "جزر فوكلاند",
+      "he": "איי פוקלנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FM",
     "names": {
       "en": "Micronesia",
-      "ja": "ミクロネシア連邦"
+      "ja": "ミクロネシア連邦",
+      "fr": "Micronésie",
+      "de": "Mikronesien",
+      "it": "Micronesia",
+      "es": "Micronesia",
+      "zh": "密克罗尼西亚",
+      "ar": "ميكرونيزيا",
+      "he": "מיקרונזיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FO",
     "names": {
       "en": "Faroe Islands",
-      "ja": "フェロー諸島"
+      "ja": "フェロー諸島",
+      "fr": "Îles Féroé",
+      "de": "Färöer",
+      "it": "Isole Fær Øer",
+      "es": "Islas Feroe",
+      "zh": "法罗群岛",
+      "ar": "جزر فارو",
+      "he": "איי פארו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "FR",
     "names": {
       "en": "France",
-      "ja": "フランス"
+      "ja": "フランス",
+      "fr": "France",
+      "de": "Frankreich",
+      "it": "Francia",
+      "es": "Francia",
+      "zh": "法国",
+      "ar": "فرنسا",
+      "he": "צרפת"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GA",
     "names": {
       "en": "Gabon",
-      "ja": "ガボン"
+      "ja": "ガボン",
+      "fr": "Gabon",
+      "de": "Gabun",
+      "it": "Gabon",
+      "es": "Gabón",
+      "zh": "加蓬",
+      "ar": "الغابون",
+      "he": "גבון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GB",
     "names": {
       "en": "United Kingdom",
-      "ja": "イギリス"
+      "ja": "イギリス",
+      "fr": "Royaume-Uni",
+      "de": "Vereinigtes Königreich",
+      "it": "Regno Unito",
+      "es": "Reino Unido",
+      "zh": "英国",
+      "ar": "المملكة المتحدة",
+      "he": "בריטניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GD",
     "names": {
       "en": "Grenada",
-      "ja": "グレナダ"
+      "ja": "グレナダ",
+      "fr": "Grenade",
+      "de": "Grenada",
+      "it": "Grenada",
+      "es": "Granada",
+      "zh": "格林纳达",
+      "ar": "غرينادا",
+      "he": "גרנדה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GE",
     "names": {
       "en": "Georgia",
-      "ja": "ジョージア"
+      "ja": "ジョージア",
+      "fr": "Géorgie",
+      "de": "Georgien",
+      "it": "Georgia",
+      "es": "Georgia",
+      "zh": "格鲁吉亚",
+      "ar": "جورجيا",
+      "he": "גאורגיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GF",
     "names": {
       "en": "French Guiana",
-      "ja": "仏領ギアナ"
+      "ja": "仏領ギアナ",
+      "fr": "Guyane française",
+      "de": "Französisch-Guayana",
+      "it": "Guyana Francese",
+      "es": "Guayana Francesa",
+      "zh": "法属圭亚那",
+      "ar": "غويانا الفرنسية",
+      "he": "גיאנה הצרפתית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GG",
     "names": {
       "en": "Guernsey",
-      "ja": "ガーンジー"
+      "ja": "ガーンジー",
+      "fr": "Guernesey",
+      "de": "Guernsey",
+      "it": "Guernsey",
+      "es": "Guernesey",
+      "zh": "根西岛",
+      "ar": "غيرنزي",
+      "he": "גרנזי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GH",
     "names": {
       "en": "Ghana",
-      "ja": "ガーナ"
+      "ja": "ガーナ",
+      "fr": "Ghana",
+      "de": "Ghana",
+      "it": "Ghana",
+      "es": "Ghana",
+      "zh": "加纳",
+      "ar": "غانا",
+      "he": "גאנה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GI",
     "names": {
       "en": "Gibraltar",
-      "ja": "ジブラルタル"
+      "ja": "ジブラルタル",
+      "fr": "Gibraltar",
+      "de": "Gibraltar",
+      "it": "Gibilterra",
+      "es": "Gibraltar",
+      "zh": "直布罗陀",
+      "ar": "جبل طارق",
+      "he": "גיברלטר"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GL",
     "names": {
       "en": "Greenland",
-      "ja": "グリーンランド"
+      "ja": "グリーンランド",
+      "fr": "Groenland",
+      "de": "Grönland",
+      "it": "Groenlandia",
+      "es": "Groenlandia",
+      "zh": "格陵兰",
+      "ar": "غرينلاند",
+      "he": "גרינלנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GM",
     "names": {
       "en": "Gambia",
-      "ja": "ガンビア"
+      "ja": "ガンビア",
+      "fr": "Gambie",
+      "de": "Gambia",
+      "it": "Gambia",
+      "es": "Gambia",
+      "zh": "冈比亚",
+      "ar": "غامبيا",
+      "he": "גמביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GN",
     "names": {
       "en": "Guinea",
-      "ja": "ギニア"
+      "ja": "ギニア",
+      "fr": "Guinée",
+      "de": "Guinea",
+      "it": "Guinea",
+      "es": "Guinea",
+      "zh": "几内亚",
+      "ar": "غينيا",
+      "he": "גינאה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GP",
     "names": {
       "en": "Guadeloupe",
-      "ja": "グアドループ"
+      "ja": "グアドループ",
+      "fr": "Guadeloupe",
+      "de": "Guadeloupe",
+      "it": "Guadalupa",
+      "es": "Guadalupe",
+      "zh": "瓜德罗普",
+      "ar": "غوادلوب",
+      "he": "גוואדלופ"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GQ",
     "names": {
       "en": "Equatorial Guinea",
-      "ja": "赤道ギニア"
+      "ja": "赤道ギニア",
+      "fr": "Guinée équatoriale",
+      "de": "Äquatorialguinea",
+      "it": "Guinea Equatoriale",
+      "es": "Guinea Ecuatorial",
+      "zh": "赤道几内亚",
+      "ar": "غينيا الاستوائية",
+      "he": "גינאה המשוונית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GR",
     "names": {
       "en": "Greece",
-      "ja": "ギリシャ"
+      "ja": "ギリシャ",
+      "fr": "Grèce",
+      "de": "Griechenland",
+      "it": "Grecia",
+      "es": "Grecia",
+      "zh": "希腊",
+      "ar": "اليونان",
+      "he": "יוון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GS",
     "names": {
       "en": "South Georgia & South Sandwich Islands",
-      "ja": "サウスジョージア・サウスサンドウィッチ諸島"
+      "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+      "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+      "de": "Südgeorgien und die Südlichen Sandwichinseln",
+      "it": "Georgia del Sud e Sandwich Australi",
+      "es": "Islas Georgia del Sur y Sandwich del Sur",
+      "zh": "南乔治亚和南桑威奇群岛",
+      "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+      "he": "ג׳ורג׳יה הדרומית ואיי סנדוויץ׳ הדרומיים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GT",
     "names": {
       "en": "Guatemala",
-      "ja": "グアテマラ"
+      "ja": "グアテマラ",
+      "fr": "Guatemala",
+      "de": "Guatemala",
+      "it": "Guatemala",
+      "es": "Guatemala",
+      "zh": "危地马拉",
+      "ar": "غواتيمالا",
+      "he": "גואטמלה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GU",
     "names": {
       "en": "Guam",
-      "ja": "グアム"
+      "ja": "グアム",
+      "fr": "Guam",
+      "de": "Guam",
+      "it": "Guam",
+      "es": "Guam",
+      "zh": "关岛",
+      "ar": "غوام",
+      "he": "גואם"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GW",
     "names": {
       "en": "Guinea-Bissau",
-      "ja": "ギニアビサウ"
+      "ja": "ギニアビサウ",
+      "fr": "Guinée-Bissau",
+      "de": "Guinea-Bissau",
+      "it": "Guinea-Bissau",
+      "es": "Guinea-Bisáu",
+      "zh": "几内亚比绍",
+      "ar": "غينيا بيساو",
+      "he": "גינאה-ביסאו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GY",
     "names": {
       "en": "Guyana",
-      "ja": "ガイアナ"
+      "ja": "ガイアナ",
+      "fr": "Guyana",
+      "de": "Guyana",
+      "it": "Guyana",
+      "es": "Guyana",
+      "zh": "圭亚那",
+      "ar": "غيانا",
+      "he": "גיאנה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "HK",
     "names": {
       "en": "Hong Kong SAR China",
-      "ja": "中華人民共和国香港特別行政区"
+      "ja": "中華人民共和国香港特別行政区",
+      "fr": "R.A.S. chinoise de Hong Kong",
+      "de": "Sonderverwaltungsregion Hongkong",
+      "it": "RAS di Hong Kong",
+      "es": "RAE de Hong Kong (China)",
+      "zh": "中国香港特别行政区",
+      "ar": "هونغ كونغ الصينية (منطقة إدارية خاصة)",
+      "he": "הונג קונג (אזור מנהלי מיוחד של סין)"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "HM",
     "names": {
       "en": "Heard & McDonald Islands",
-      "ja": "ハード島・マクドナルド諸島"
+      "ja": "ハード島・マクドナルド諸島",
+      "fr": "Îles Heard-et-MacDonald",
+      "de": "Heard und McDonaldinseln",
+      "it": "Isole Heard e McDonald",
+      "es": "Islas Heard y McDonald",
+      "zh": "赫德岛和麦克唐纳群岛",
+      "ar": "جزيرة هيرد وجزر ماكدونالد",
+      "he": "איי הרד ומקדונלד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "HN",
     "names": {
       "en": "Honduras",
-      "ja": "ホンジュラス"
+      "ja": "ホンジュラス",
+      "fr": "Honduras",
+      "de": "Honduras",
+      "it": "Honduras",
+      "es": "Honduras",
+      "zh": "洪都拉斯",
+      "ar": "هندوراس",
+      "he": "הונדורס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "HR",
     "names": {
       "en": "Croatia",
-      "ja": "クロアチア"
+      "ja": "クロアチア",
+      "fr": "Croatie",
+      "de": "Kroatien",
+      "it": "Croazia",
+      "es": "Croacia",
+      "zh": "克罗地亚",
+      "ar": "كرواتيا",
+      "he": "קרואטיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "HT",
     "names": {
       "en": "Haiti",
-      "ja": "ハイチ"
+      "ja": "ハイチ",
+      "fr": "Haïti",
+      "de": "Haiti",
+      "it": "Haiti",
+      "es": "Haití",
+      "zh": "海地",
+      "ar": "هايتي",
+      "he": "האיטי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "HU",
     "names": {
       "en": "Hungary",
-      "ja": "ハンガリー"
+      "ja": "ハンガリー",
+      "fr": "Hongrie",
+      "de": "Ungarn",
+      "it": "Ungheria",
+      "es": "Hungría",
+      "zh": "匈牙利",
+      "ar": "هنغاريا",
+      "he": "הונגריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ID",
     "names": {
       "en": "Indonesia",
-      "ja": "インドネシア"
+      "ja": "インドネシア",
+      "fr": "Indonésie",
+      "de": "Indonesien",
+      "it": "Indonesia",
+      "es": "Indonesia",
+      "zh": "印度尼西亚",
+      "ar": "إندونيسيا",
+      "he": "אינדונזיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IE",
     "names": {
       "en": "Ireland",
-      "ja": "アイルランド"
+      "ja": "アイルランド",
+      "fr": "Irlande",
+      "de": "Irland",
+      "it": "Irlanda",
+      "es": "Irlanda",
+      "zh": "爱尔兰",
+      "ar": "أيرلندا",
+      "he": "אירלנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IL",
     "names": {
       "en": "Israel",
-      "ja": "イスラエル"
+      "ja": "イスラエル",
+      "fr": "Israël",
+      "de": "Israel",
+      "it": "Israele",
+      "es": "Israel",
+      "zh": "以色列",
+      "ar": "إسرائيل",
+      "he": "ישראל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IM",
     "names": {
       "en": "Isle of Man",
-      "ja": "マン島"
+      "ja": "マン島",
+      "fr": "Île de Man",
+      "de": "Isle of Man",
+      "it": "Isola di Man",
+      "es": "Isla de Man",
+      "zh": "马恩岛",
+      "ar": "جزيرة مان",
+      "he": "האי מאן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IN",
     "names": {
       "en": "India",
-      "ja": "インド"
+      "ja": "インド",
+      "fr": "Inde",
+      "de": "Indien",
+      "it": "India",
+      "es": "India",
+      "zh": "印度",
+      "ar": "الهند",
+      "he": "הודו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IQ",
     "names": {
       "en": "Iraq",
-      "ja": "イラク"
+      "ja": "イラク",
+      "fr": "Irak",
+      "de": "Irak",
+      "it": "Iraq",
+      "es": "Irak",
+      "zh": "伊拉克",
+      "ar": "العراق",
+      "he": "עיראק"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IR",
     "names": {
       "en": "Iran",
-      "ja": "イラン"
+      "ja": "イラン",
+      "fr": "Iran",
+      "de": "Iran",
+      "it": "Iran",
+      "es": "Irán",
+      "zh": "伊朗",
+      "ar": "إيران",
+      "he": "איראן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IS",
     "names": {
       "en": "Iceland",
-      "ja": "アイスランド"
+      "ja": "アイスランド",
+      "fr": "Islande",
+      "de": "Island",
+      "it": "Islanda",
+      "es": "Islandia",
+      "zh": "冰岛",
+      "ar": "آيسلندا",
+      "he": "איסלנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "IT",
     "names": {
       "en": "Italy",
-      "ja": "イタリア"
+      "ja": "イタリア",
+      "fr": "Italie",
+      "de": "Italien",
+      "it": "Italia",
+      "es": "Italia",
+      "zh": "意大利",
+      "ar": "إيطاليا",
+      "he": "איטליה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "JE",
     "names": {
       "en": "Jersey",
-      "ja": "ジャージー"
+      "ja": "ジャージー",
+      "fr": "Jersey",
+      "de": "Jersey",
+      "it": "Jersey",
+      "es": "Jersey",
+      "zh": "泽西岛",
+      "ar": "جيرسي",
+      "he": "ג׳רזי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "JM",
     "names": {
       "en": "Jamaica",
-      "ja": "ジャマイカ"
+      "ja": "ジャマイカ",
+      "fr": "Jamaïque",
+      "de": "Jamaika",
+      "it": "Giamaica",
+      "es": "Jamaica",
+      "zh": "牙买加",
+      "ar": "جامايكا",
+      "he": "ג׳מייקה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "JO",
     "names": {
       "en": "Jordan",
-      "ja": "ヨルダン"
+      "ja": "ヨルダン",
+      "fr": "Jordanie",
+      "de": "Jordanien",
+      "it": "Giordania",
+      "es": "Jordania",
+      "zh": "约旦",
+      "ar": "الأردن",
+      "he": "ירדן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "JP",
     "names": {
       "en": "Japan",
-      "ja": "日本"
+      "ja": "日本",
+      "fr": "Japon",
+      "de": "Japan",
+      "it": "Giappone",
+      "es": "Japón",
+      "zh": "日本",
+      "ar": "اليابان",
+      "he": "יפן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KE",
     "names": {
       "en": "Kenya",
-      "ja": "ケニア"
+      "ja": "ケニア",
+      "fr": "Kenya",
+      "de": "Kenia",
+      "it": "Kenya",
+      "es": "Kenia",
+      "zh": "肯尼亚",
+      "ar": "كينيا",
+      "he": "קניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KG",
     "names": {
       "en": "Kyrgyzstan",
-      "ja": "キルギス"
+      "ja": "キルギス",
+      "fr": "Kirghizstan",
+      "de": "Kirgisistan",
+      "it": "Kirghizistan",
+      "es": "Kirguistán",
+      "zh": "吉尔吉斯斯坦",
+      "ar": "قيرغيزستان",
+      "he": "קירגיזסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KH",
     "names": {
       "en": "Cambodia",
-      "ja": "カンボジア"
+      "ja": "カンボジア",
+      "fr": "Cambodge",
+      "de": "Kambodscha",
+      "it": "Cambogia",
+      "es": "Camboya",
+      "zh": "柬埔寨",
+      "ar": "كمبوديا",
+      "he": "קמבודיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KI",
     "names": {
       "en": "Kiribati",
-      "ja": "キリバス"
+      "ja": "キリバス",
+      "fr": "Kiribati",
+      "de": "Kiribati",
+      "it": "Kiribati",
+      "es": "Kiribati",
+      "zh": "基里巴斯",
+      "ar": "كيريباتي",
+      "he": "קיריבאטי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KM",
     "names": {
       "en": "Comoros",
-      "ja": "コモロ"
+      "ja": "コモロ",
+      "fr": "Comores",
+      "de": "Komoren",
+      "it": "Comore",
+      "es": "Comoras",
+      "zh": "科摩罗",
+      "ar": "جزر القمر",
+      "he": "קומורו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KN",
     "names": {
       "en": "St. Kitts & Nevis",
-      "ja": "セントクリストファー・ネーヴィス"
+      "ja": "セントクリストファー・ネーヴィス",
+      "fr": "Saint-Christophe-et-Niévès",
+      "de": "St. Kitts und Nevis",
+      "it": "Saint Kitts e Nevis",
+      "es": "San Cristóbal y Nieves",
+      "zh": "圣基茨和尼维斯",
+      "ar": "سانت كيتس ونيفيس",
+      "he": "סנט קיטס ונוויס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KP",
     "names": {
       "en": "North Korea",
-      "ja": "北朝鮮"
+      "ja": "北朝鮮",
+      "fr": "Corée du Nord",
+      "de": "Nordkorea",
+      "it": "Corea del Nord",
+      "es": "Corea del Norte",
+      "zh": "朝鲜",
+      "ar": "كوريا الشمالية",
+      "he": "קוריאה הצפונית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KR",
     "names": {
       "en": "South Korea",
-      "ja": "韓国"
+      "ja": "韓国",
+      "fr": "Corée du Sud",
+      "de": "Südkorea",
+      "it": "Corea del Sud",
+      "es": "Corea del Sur",
+      "zh": "韩国",
+      "ar": "كوريا الجنوبية",
+      "he": "קוריאה הדרומית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KW",
     "names": {
       "en": "Kuwait",
-      "ja": "クウェート"
+      "ja": "クウェート",
+      "fr": "Koweït",
+      "de": "Kuwait",
+      "it": "Kuwait",
+      "es": "Kuwait",
+      "zh": "科威特",
+      "ar": "الكويت",
+      "he": "כווית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KY",
     "names": {
       "en": "Cayman Islands",
-      "ja": "ケイマン諸島"
+      "ja": "ケイマン諸島",
+      "fr": "Îles Caïmans",
+      "de": "Kaimaninseln",
+      "it": "Isole Cayman",
+      "es": "Islas Caimán",
+      "zh": "开曼群岛",
+      "ar": "جزر كايمان",
+      "he": "איי קיימן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "KZ",
     "names": {
       "en": "Kazakhstan",
-      "ja": "カザフスタン"
+      "ja": "カザフスタン",
+      "fr": "Kazakhstan",
+      "de": "Kasachstan",
+      "it": "Kazakistan",
+      "es": "Kazajistán",
+      "zh": "哈萨克斯坦",
+      "ar": "كازاخستان",
+      "he": "קזחסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LA",
     "names": {
       "en": "Laos",
-      "ja": "ラオス"
+      "ja": "ラオス",
+      "fr": "Laos",
+      "de": "Laos",
+      "it": "Laos",
+      "es": "Laos",
+      "zh": "老挝",
+      "ar": "لاوس",
+      "he": "לאוס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LB",
     "names": {
       "en": "Lebanon",
-      "ja": "レバノン"
+      "ja": "レバノン",
+      "fr": "Liban",
+      "de": "Libanon",
+      "it": "Libano",
+      "es": "Líbano",
+      "zh": "黎巴嫩",
+      "ar": "لبنان",
+      "he": "לבנון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LC",
     "names": {
       "en": "St. Lucia",
-      "ja": "セントルシア"
+      "ja": "セントルシア",
+      "fr": "Sainte-Lucie",
+      "de": "St. Lucia",
+      "it": "Saint Lucia",
+      "es": "Santa Lucía",
+      "zh": "圣卢西亚",
+      "ar": "سانت لوسيا",
+      "he": "סנט לוסיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LI",
     "names": {
       "en": "Liechtenstein",
-      "ja": "リヒテンシュタイン"
+      "ja": "リヒテンシュタイン",
+      "fr": "Liechtenstein",
+      "de": "Liechtenstein",
+      "it": "Liechtenstein",
+      "es": "Liechtenstein",
+      "zh": "列支敦士登",
+      "ar": "ليختنشتاين",
+      "he": "ליכטנשטיין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LK",
     "names": {
       "en": "Sri Lanka",
-      "ja": "スリランカ"
+      "ja": "スリランカ",
+      "fr": "Sri Lanka",
+      "de": "Sri Lanka",
+      "it": "Sri Lanka",
+      "es": "Sri Lanka",
+      "zh": "斯里兰卡",
+      "ar": "سريلانكا",
+      "he": "סרי לנקה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LR",
     "names": {
       "en": "Liberia",
-      "ja": "リベリア"
+      "ja": "リベリア",
+      "fr": "Liberia",
+      "de": "Liberia",
+      "it": "Liberia",
+      "es": "Liberia",
+      "zh": "利比里亚",
+      "ar": "ليبيريا",
+      "he": "ליבריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LS",
     "names": {
       "en": "Lesotho",
-      "ja": "レソト"
+      "ja": "レソト",
+      "fr": "Lesotho",
+      "de": "Lesotho",
+      "it": "Lesotho",
+      "es": "Lesoto",
+      "zh": "莱索托",
+      "ar": "ليسوتو",
+      "he": "לסוטו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LT",
     "names": {
       "en": "Lithuania",
-      "ja": "リトアニア"
+      "ja": "リトアニア",
+      "fr": "Lituanie",
+      "de": "Litauen",
+      "it": "Lituania",
+      "es": "Lituania",
+      "zh": "立陶宛",
+      "ar": "ليتوانيا",
+      "he": "ליטא"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LU",
     "names": {
       "en": "Luxembourg",
-      "ja": "ルクセンブルク"
+      "ja": "ルクセンブルク",
+      "fr": "Luxembourg",
+      "de": "Luxemburg",
+      "it": "Lussemburgo",
+      "es": "Luxemburgo",
+      "zh": "卢森堡",
+      "ar": "لوكسمبورغ",
+      "he": "לוקסמבורג"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LV",
     "names": {
       "en": "Latvia",
-      "ja": "ラトビア"
+      "ja": "ラトビア",
+      "fr": "Lettonie",
+      "de": "Lettland",
+      "it": "Lettonia",
+      "es": "Letonia",
+      "zh": "拉脱维亚",
+      "ar": "لاتفيا",
+      "he": "לטביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "LY",
     "names": {
       "en": "Libya",
-      "ja": "リビア"
+      "ja": "リビア",
+      "fr": "Libye",
+      "de": "Libyen",
+      "it": "Libia",
+      "es": "Libia",
+      "zh": "利比亚",
+      "ar": "ليبيا",
+      "he": "לוב"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MA",
     "names": {
       "en": "Morocco",
-      "ja": "モロッコ"
+      "ja": "モロッコ",
+      "fr": "Maroc",
+      "de": "Marokko",
+      "it": "Marocco",
+      "es": "Marruecos",
+      "zh": "摩洛哥",
+      "ar": "المغرب",
+      "he": "מרוקו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MC",
     "names": {
       "en": "Monaco",
-      "ja": "モナコ"
+      "ja": "モナコ",
+      "fr": "Monaco",
+      "de": "Monaco",
+      "it": "Monaco",
+      "es": "Mónaco",
+      "zh": "摩纳哥",
+      "ar": "موناكو",
+      "he": "מונקו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MD",
     "names": {
       "en": "Moldova",
-      "ja": "モルドバ"
+      "ja": "モルドバ",
+      "fr": "Moldavie",
+      "de": "Republik Moldau",
+      "it": "Moldavia",
+      "es": "Moldavia",
+      "zh": "摩尔多瓦",
+      "ar": "مولدوفا",
+      "he": "מולדובה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ME",
     "names": {
       "en": "Montenegro",
-      "ja": "モンテネグロ"
+      "ja": "モンテネグロ",
+      "fr": "Monténégro",
+      "de": "Montenegro",
+      "it": "Montenegro",
+      "es": "Montenegro",
+      "zh": "黑山",
+      "ar": "الجبل الأسود",
+      "he": "מונטנגרו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MF",
     "names": {
       "en": "St. Martin",
-      "ja": "サン・マルタン"
+      "ja": "サン・マルタン",
+      "fr": "Saint-Martin",
+      "de": "St. Martin",
+      "it": "Saint Martin",
+      "es": "San Martín",
+      "zh": "法属圣马丁",
+      "ar": "سان مارتن",
+      "he": "סן מרטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MG",
     "names": {
       "en": "Madagascar",
-      "ja": "マダガスカル"
+      "ja": "マダガスカル",
+      "fr": "Madagascar",
+      "de": "Madagaskar",
+      "it": "Madagascar",
+      "es": "Madagascar",
+      "zh": "马达加斯加",
+      "ar": "مدغشقر",
+      "he": "מדגסקר"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MH",
     "names": {
       "en": "Marshall Islands",
-      "ja": "マーシャル諸島"
+      "ja": "マーシャル諸島",
+      "fr": "Îles Marshall",
+      "de": "Marshallinseln",
+      "it": "Isole Marshall",
+      "es": "Islas Marshall",
+      "zh": "马绍尔群岛",
+      "ar": "جزر مارشال",
+      "he": "איי מרשל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MK",
     "names": {
       "en": "North Macedonia",
-      "ja": "北マケドニア"
+      "ja": "北マケドニア",
+      "fr": "Macédoine du Nord",
+      "de": "Nordmazedonien",
+      "it": "Macedonia del Nord",
+      "es": "Macedonia del Norte",
+      "zh": "北马其顿",
+      "ar": "مقدونيا الشمالية",
+      "he": "מקדוניה הצפונית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ML",
     "names": {
       "en": "Mali",
-      "ja": "マリ"
+      "ja": "マリ",
+      "fr": "Mali",
+      "de": "Mali",
+      "it": "Mali",
+      "es": "Mali",
+      "zh": "马里",
+      "ar": "مالي",
+      "he": "מאלי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MM",
     "names": {
       "en": "Myanmar (Burma)",
-      "ja": "ミャンマー (ビルマ)"
+      "ja": "ミャンマー (ビルマ)",
+      "fr": "Myanmar (Birmanie)",
+      "de": "Myanmar",
+      "it": "Myanmar (Birmania)",
+      "es": "Myanmar (Birmania)",
+      "zh": "缅甸",
+      "ar": "ميانمار (بورما)",
+      "he": "מיאנמר (בורמה)"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MN",
     "names": {
       "en": "Mongolia",
-      "ja": "モンゴル"
+      "ja": "モンゴル",
+      "fr": "Mongolie",
+      "de": "Mongolei",
+      "it": "Mongolia",
+      "es": "Mongolia",
+      "zh": "蒙古",
+      "ar": "منغوليا",
+      "he": "מונגוליה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MO",
     "names": {
       "en": "Macao SAR China",
-      "ja": "中華人民共和国マカオ特別行政区"
+      "ja": "中華人民共和国マカオ特別行政区",
+      "fr": "R.A.S. chinoise de Macao",
+      "de": "Sonderverwaltungsregion Macau",
+      "it": "RAS di Macao",
+      "es": "RAE de Macao (China)",
+      "zh": "中国澳门特别行政区",
+      "ar": "منطقة ماكاو الإدارية الخاصة",
+      "he": "מקאו (אזור מנהלי מיוחד של סין)"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MP",
     "names": {
       "en": "Northern Mariana Islands",
-      "ja": "北マリアナ諸島"
+      "ja": "北マリアナ諸島",
+      "fr": "Îles Mariannes du Nord",
+      "de": "Nördliche Marianen",
+      "it": "Isole Marianne Settentrionali",
+      "es": "Islas Marianas del Norte",
+      "zh": "北马里亚纳群岛",
+      "ar": "جزر ماريانا الشمالية",
+      "he": "איי מריאנה הצפוניים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MQ",
     "names": {
       "en": "Martinique",
-      "ja": "マルティニーク"
+      "ja": "マルティニーク",
+      "fr": "Martinique",
+      "de": "Martinique",
+      "it": "Martinica",
+      "es": "Martinica",
+      "zh": "马提尼克",
+      "ar": "جزر المارتينيك",
+      "he": "מרטיניק"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MR",
     "names": {
       "en": "Mauritania",
-      "ja": "モーリタニア"
+      "ja": "モーリタニア",
+      "fr": "Mauritanie",
+      "de": "Mauretanien",
+      "it": "Mauritania",
+      "es": "Mauritania",
+      "zh": "毛里塔尼亚",
+      "ar": "موريتانيا",
+      "he": "מאוריטניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MS",
     "names": {
       "en": "Montserrat",
-      "ja": "モントセラト"
+      "ja": "モントセラト",
+      "fr": "Montserrat",
+      "de": "Montserrat",
+      "it": "Montserrat",
+      "es": "Montserrat",
+      "zh": "蒙特塞拉特",
+      "ar": "مونتسرات",
+      "he": "מונסראט"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MT",
     "names": {
       "en": "Malta",
-      "ja": "マルタ"
+      "ja": "マルタ",
+      "fr": "Malte",
+      "de": "Malta",
+      "it": "Malta",
+      "es": "Malta",
+      "zh": "马耳他",
+      "ar": "مالطا",
+      "he": "מלטה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MU",
     "names": {
       "en": "Mauritius",
-      "ja": "モーリシャス"
+      "ja": "モーリシャス",
+      "fr": "Maurice",
+      "de": "Mauritius",
+      "it": "Mauritius",
+      "es": "Mauricio",
+      "zh": "毛里求斯",
+      "ar": "موريشيوس",
+      "he": "מאוריציוס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MV",
     "names": {
       "en": "Maldives",
-      "ja": "モルディブ"
+      "ja": "モルディブ",
+      "fr": "Maldives",
+      "de": "Malediven",
+      "it": "Maldive",
+      "es": "Maldivas",
+      "zh": "马尔代夫",
+      "ar": "جزر المالديف",
+      "he": "האיים המלדיביים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MW",
     "names": {
       "en": "Malawi",
-      "ja": "マラウイ"
+      "ja": "マラウイ",
+      "fr": "Malawi",
+      "de": "Malawi",
+      "it": "Malawi",
+      "es": "Malaui",
+      "zh": "马拉维",
+      "ar": "ملاوي",
+      "he": "מלאווי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MX",
     "names": {
       "en": "Mexico",
-      "ja": "メキシコ"
+      "ja": "メキシコ",
+      "fr": "Mexique",
+      "de": "Mexiko",
+      "it": "Messico",
+      "es": "México",
+      "zh": "墨西哥",
+      "ar": "المكسيك",
+      "he": "מקסיקו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MY",
     "names": {
       "en": "Malaysia",
-      "ja": "マレーシア"
+      "ja": "マレーシア",
+      "fr": "Malaisie",
+      "de": "Malaysia",
+      "it": "Malaysia",
+      "es": "Malasia",
+      "zh": "马来西亚",
+      "ar": "ماليزيا",
+      "he": "מלזיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "MZ",
     "names": {
       "en": "Mozambique",
-      "ja": "モザンビーク"
+      "ja": "モザンビーク",
+      "fr": "Mozambique",
+      "de": "Mosambik",
+      "it": "Mozambico",
+      "es": "Mozambique",
+      "zh": "莫桑比克",
+      "ar": "موزمبيق",
+      "he": "מוזמביק"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NA",
     "names": {
       "en": "Namibia",
-      "ja": "ナミビア"
+      "ja": "ナミビア",
+      "fr": "Namibie",
+      "de": "Namibia",
+      "it": "Namibia",
+      "es": "Namibia",
+      "zh": "纳米比亚",
+      "ar": "ناميبيا",
+      "he": "נמיביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NC",
     "names": {
       "en": "New Caledonia",
-      "ja": "ニューカレドニア"
+      "ja": "ニューカレドニア",
+      "fr": "Nouvelle-Calédonie",
+      "de": "Neukaledonien",
+      "it": "Nuova Caledonia",
+      "es": "Nueva Caledonia",
+      "zh": "新喀里多尼亚",
+      "ar": "كاليدونيا الجديدة",
+      "he": "קלדוניה החדשה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NE",
     "names": {
       "en": "Niger",
-      "ja": "ニジェール"
+      "ja": "ニジェール",
+      "fr": "Niger",
+      "de": "Niger",
+      "it": "Niger",
+      "es": "Níger",
+      "zh": "尼日尔",
+      "ar": "النيجر",
+      "he": "ניז׳ר"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NF",
     "names": {
       "en": "Norfolk Island",
-      "ja": "ノーフォーク島"
+      "ja": "ノーフォーク島",
+      "fr": "Île Norfolk",
+      "de": "Norfolkinsel",
+      "it": "Isola Norfolk",
+      "es": "Isla Norfolk",
+      "zh": "诺福克岛",
+      "ar": "جزيرة نورفولك",
+      "he": "האי נורפוק"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NG",
     "names": {
       "en": "Nigeria",
-      "ja": "ナイジェリア"
+      "ja": "ナイジェリア",
+      "fr": "Nigeria",
+      "de": "Nigeria",
+      "it": "Nigeria",
+      "es": "Nigeria",
+      "zh": "尼日利亚",
+      "ar": "نيجيريا",
+      "he": "ניגריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NI",
     "names": {
       "en": "Nicaragua",
-      "ja": "ニカラグア"
+      "ja": "ニカラグア",
+      "fr": "Nicaragua",
+      "de": "Nicaragua",
+      "it": "Nicaragua",
+      "es": "Nicaragua",
+      "zh": "尼加拉瓜",
+      "ar": "نيكاراغوا",
+      "he": "ניקרגואה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NL",
     "names": {
       "en": "Netherlands",
-      "ja": "オランダ"
+      "ja": "オランダ",
+      "fr": "Pays-Bas",
+      "de": "Niederlande",
+      "it": "Paesi Bassi",
+      "es": "Países Bajos",
+      "zh": "荷兰",
+      "ar": "هولندا",
+      "he": "הולנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NO",
     "names": {
       "en": "Norway",
-      "ja": "ノルウェー"
+      "ja": "ノルウェー",
+      "fr": "Norvège",
+      "de": "Norwegen",
+      "it": "Norvegia",
+      "es": "Noruega",
+      "zh": "挪威",
+      "ar": "النرويج",
+      "he": "נורווגיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NP",
     "names": {
       "en": "Nepal",
-      "ja": "ネパール"
+      "ja": "ネパール",
+      "fr": "Népal",
+      "de": "Nepal",
+      "it": "Nepal",
+      "es": "Nepal",
+      "zh": "尼泊尔",
+      "ar": "نيبال",
+      "he": "נפאל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NR",
     "names": {
       "en": "Nauru",
-      "ja": "ナウル"
+      "ja": "ナウル",
+      "fr": "Nauru",
+      "de": "Nauru",
+      "it": "Nauru",
+      "es": "Nauru",
+      "zh": "瑙鲁",
+      "ar": "ناورو",
+      "he": "נאורו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NU",
     "names": {
       "en": "Niue",
-      "ja": "ニウエ"
+      "ja": "ニウエ",
+      "fr": "Niue",
+      "de": "Niue",
+      "it": "Niue",
+      "es": "Niue",
+      "zh": "纽埃",
+      "ar": "نيوي",
+      "he": "ניווה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "NZ",
     "names": {
       "en": "New Zealand",
-      "ja": "ニュージーランド"
+      "ja": "ニュージーランド",
+      "fr": "Nouvelle-Zélande",
+      "de": "Neuseeland",
+      "it": "Nuova Zelanda",
+      "es": "Nueva Zelanda",
+      "zh": "新西兰",
+      "ar": "نيوزيلندا",
+      "he": "ניו זילנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "OM",
     "names": {
       "en": "Oman",
-      "ja": "オマーン"
+      "ja": "オマーン",
+      "fr": "Oman",
+      "de": "Oman",
+      "it": "Oman",
+      "es": "Omán",
+      "zh": "阿曼",
+      "ar": "عُمان",
+      "he": "עומאן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PA",
     "names": {
       "en": "Panama",
-      "ja": "パナマ"
+      "ja": "パナマ",
+      "fr": "Panama",
+      "de": "Panama",
+      "it": "Panama",
+      "es": "Panamá",
+      "zh": "巴拿马",
+      "ar": "بنما",
+      "he": "פנמה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PE",
     "names": {
       "en": "Peru",
-      "ja": "ペルー"
+      "ja": "ペルー",
+      "fr": "Pérou",
+      "de": "Peru",
+      "it": "Perù",
+      "es": "Perú",
+      "zh": "秘鲁",
+      "ar": "بيرو",
+      "he": "פרו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PF",
     "names": {
       "en": "French Polynesia",
-      "ja": "仏領ポリネシア"
+      "ja": "仏領ポリネシア",
+      "fr": "Polynésie française",
+      "de": "Französisch-Polynesien",
+      "it": "Polinesia Francese",
+      "es": "Polinesia Francesa",
+      "zh": "法属波利尼西亚",
+      "ar": "بولينيزيا الفرنسية",
+      "he": "פולינזיה הצרפתית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PG",
     "names": {
       "en": "Papua New Guinea",
-      "ja": "パプアニューギニア"
+      "ja": "パプアニューギニア",
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "de": "Papua-Neuguinea",
+      "it": "Papua Nuova Guinea",
+      "es": "Papúa Nueva Guinea",
+      "zh": "巴布亚新几内亚",
+      "ar": "بابوا غينيا الجديدة",
+      "he": "פפואה גינאה החדשה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PH",
     "names": {
       "en": "Philippines",
-      "ja": "フィリピン"
+      "ja": "フィリピン",
+      "fr": "Philippines",
+      "de": "Philippinen",
+      "it": "Filippine",
+      "es": "Filipinas",
+      "zh": "菲律宾",
+      "ar": "الفلبين",
+      "he": "הפיליפינים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PK",
     "names": {
       "en": "Pakistan",
-      "ja": "パキスタン"
+      "ja": "パキスタン",
+      "fr": "Pakistan",
+      "de": "Pakistan",
+      "it": "Pakistan",
+      "es": "Pakistán",
+      "zh": "巴基斯坦",
+      "ar": "باكستان",
+      "he": "פקיסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PL",
     "names": {
       "en": "Poland",
-      "ja": "ポーランド"
+      "ja": "ポーランド",
+      "fr": "Pologne",
+      "de": "Polen",
+      "it": "Polonia",
+      "es": "Polonia",
+      "zh": "波兰",
+      "ar": "بولندا",
+      "he": "פולין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PM",
     "names": {
       "en": "St. Pierre & Miquelon",
-      "ja": "サンピエール島・ミクロン島"
+      "ja": "サンピエール島・ミクロン島",
+      "fr": "Saint-Pierre-et-Miquelon",
+      "de": "St. Pierre und Miquelon",
+      "it": "Saint-Pierre e Miquelon",
+      "es": "San Pedro y Miquelón",
+      "zh": "圣皮埃尔和密克隆群岛",
+      "ar": "سان بيير ومكويلون",
+      "he": "סנט פייר ומיקלון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PN",
     "names": {
       "en": "Pitcairn Islands",
-      "ja": "ピトケアン諸島"
+      "ja": "ピトケアン諸島",
+      "fr": "Îles Pitcairn",
+      "de": "Pitcairninseln",
+      "it": "Isole Pitcairn",
+      "es": "Islas Pitcairn",
+      "zh": "皮特凯恩群岛",
+      "ar": "جزر بيتكيرن",
+      "he": "איי פיטקרן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PR",
     "names": {
       "en": "Puerto Rico",
-      "ja": "プエルトリコ"
+      "ja": "プエルトリコ",
+      "fr": "Porto Rico",
+      "de": "Puerto Rico",
+      "it": "Portorico",
+      "es": "Puerto Rico",
+      "zh": "波多黎各",
+      "ar": "بورتوريكو",
+      "he": "פוארטו ריקו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PS",
     "names": {
       "en": "Palestinian Territories",
-      "ja": "パレスチナ自治区"
+      "ja": "パレスチナ自治区",
+      "fr": "Territoires palestiniens",
+      "de": "Palästinensische Autonomiegebiete",
+      "it": "Territori Palestinesi",
+      "es": "Territorios Palestinos",
+      "zh": "巴勒斯坦领土",
+      "ar": "الأراضي الفلسطينية",
+      "he": "השטחים הפלסטיניים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PT",
     "names": {
       "en": "Portugal",
-      "ja": "ポルトガル"
+      "ja": "ポルトガル",
+      "fr": "Portugal",
+      "de": "Portugal",
+      "it": "Portogallo",
+      "es": "Portugal",
+      "zh": "葡萄牙",
+      "ar": "البرتغال",
+      "he": "פורטוגל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PW",
     "names": {
       "en": "Palau",
-      "ja": "パラオ"
+      "ja": "パラオ",
+      "fr": "Palaos",
+      "de": "Palau",
+      "it": "Palau",
+      "es": "Palaos",
+      "zh": "帕劳",
+      "ar": "بالاو",
+      "he": "פלאו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "PY",
     "names": {
       "en": "Paraguay",
-      "ja": "パラグアイ"
+      "ja": "パラグアイ",
+      "fr": "Paraguay",
+      "de": "Paraguay",
+      "it": "Paraguay",
+      "es": "Paraguay",
+      "zh": "巴拉圭",
+      "ar": "باراغواي",
+      "he": "פרגוואי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "QA",
     "names": {
       "en": "Qatar",
-      "ja": "カタール"
+      "ja": "カタール",
+      "fr": "Qatar",
+      "de": "Katar",
+      "it": "Qatar",
+      "es": "Catar",
+      "zh": "卡塔尔",
+      "ar": "قطر",
+      "he": "קטאר"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "RE",
     "names": {
       "en": "Réunion",
-      "ja": "レユニオン"
+      "ja": "レユニオン",
+      "fr": "La Réunion",
+      "de": "Réunion",
+      "it": "Riunione",
+      "es": "Reunión",
+      "zh": "留尼汪",
+      "ar": "روينيون",
+      "he": "ראוניון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "RO",
     "names": {
       "en": "Romania",
-      "ja": "ルーマニア"
+      "ja": "ルーマニア",
+      "fr": "Roumanie",
+      "de": "Rumänien",
+      "it": "Romania",
+      "es": "Rumanía",
+      "zh": "罗马尼亚",
+      "ar": "رومانيا",
+      "he": "רומניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "RS",
     "names": {
       "en": "Serbia",
-      "ja": "セルビア"
+      "ja": "セルビア",
+      "fr": "Serbie",
+      "de": "Serbien",
+      "it": "Serbia",
+      "es": "Serbia",
+      "zh": "塞尔维亚",
+      "ar": "صربيا",
+      "he": "סרביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "RU",
     "names": {
       "en": "Russia",
-      "ja": "ロシア"
+      "ja": "ロシア",
+      "fr": "Russie",
+      "de": "Russland",
+      "it": "Russia",
+      "es": "Rusia",
+      "zh": "俄罗斯",
+      "ar": "روسيا",
+      "he": "רוסיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "RW",
     "names": {
       "en": "Rwanda",
-      "ja": "ルワンダ"
+      "ja": "ルワンダ",
+      "fr": "Rwanda",
+      "de": "Ruanda",
+      "it": "Ruanda",
+      "es": "Ruanda",
+      "zh": "卢旺达",
+      "ar": "رواندا",
+      "he": "רואנדה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SA",
     "names": {
       "en": "Saudi Arabia",
-      "ja": "サウジアラビア"
+      "ja": "サウジアラビア",
+      "fr": "Arabie saoudite",
+      "de": "Saudi-Arabien",
+      "it": "Arabia Saudita",
+      "es": "Arabia Saudí",
+      "zh": "沙特阿拉伯",
+      "ar": "المملكة العربية السعودية",
+      "he": "ערב הסעודית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SB",
     "names": {
       "en": "Solomon Islands",
-      "ja": "ソロモン諸島"
+      "ja": "ソロモン諸島",
+      "fr": "Îles Salomon",
+      "de": "Salomonen",
+      "it": "Isole Salomone",
+      "es": "Islas Salomón",
+      "zh": "所罗门群岛",
+      "ar": "جزر سليمان",
+      "he": "איי שלמה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SC",
     "names": {
       "en": "Seychelles",
-      "ja": "セーシェル"
+      "ja": "セーシェル",
+      "fr": "Seychelles",
+      "de": "Seychellen",
+      "it": "Seychelles",
+      "es": "Seychelles",
+      "zh": "塞舌尔",
+      "ar": "سيشل",
+      "he": "איי סיישל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SD",
     "names": {
       "en": "Sudan",
-      "ja": "スーダン"
+      "ja": "スーダン",
+      "fr": "Soudan",
+      "de": "Sudan",
+      "it": "Sudan",
+      "es": "Sudán",
+      "zh": "苏丹",
+      "ar": "السودان",
+      "he": "סודן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SE",
     "names": {
       "en": "Sweden",
-      "ja": "スウェーデン"
+      "ja": "スウェーデン",
+      "fr": "Suède",
+      "de": "Schweden",
+      "it": "Svezia",
+      "es": "Suecia",
+      "zh": "瑞典",
+      "ar": "السويد",
+      "he": "שוודיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SG",
     "names": {
       "en": "Singapore",
-      "ja": "シンガポール"
+      "ja": "シンガポール",
+      "fr": "Singapour",
+      "de": "Singapur",
+      "it": "Singapore",
+      "es": "Singapur",
+      "zh": "新加坡",
+      "ar": "سنغافورة",
+      "he": "סינגפור"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SH",
     "names": {
       "en": "St. Helena",
-      "ja": "セントヘレナ"
+      "ja": "セントヘレナ",
+      "fr": "Sainte-Hélène",
+      "de": "St. Helena",
+      "it": "Sant’Elena",
+      "es": "Santa Elena",
+      "zh": "圣赫勒拿",
+      "ar": "سانت هيلينا",
+      "he": "סנט הלנה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SI",
     "names": {
       "en": "Slovenia",
-      "ja": "スロベニア"
+      "ja": "スロベニア",
+      "fr": "Slovénie",
+      "de": "Slowenien",
+      "it": "Slovenia",
+      "es": "Eslovenia",
+      "zh": "斯洛文尼亚",
+      "ar": "سلوفينيا",
+      "he": "סלובניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SJ",
     "names": {
       "en": "Svalbard & Jan Mayen",
-      "ja": "スバールバル諸島・ヤンマイエン島"
+      "ja": "スバールバル諸島・ヤンマイエン島",
+      "fr": "Svalbard et Jan Mayen",
+      "de": "Spitzbergen und Jan Mayen",
+      "it": "Svalbard e Jan Mayen",
+      "es": "Svalbard y Jan Mayen",
+      "zh": "斯瓦尔巴和扬马延",
+      "ar": "سفالبارد وجان ماين",
+      "he": "סבאלברד ויאן מאיין"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SK",
     "names": {
       "en": "Slovakia",
-      "ja": "スロバキア"
+      "ja": "スロバキア",
+      "fr": "Slovaquie",
+      "de": "Slowakei",
+      "it": "Slovacchia",
+      "es": "Eslovaquia",
+      "zh": "斯洛伐克",
+      "ar": "سلوفاكيا",
+      "he": "סלובקיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SL",
     "names": {
       "en": "Sierra Leone",
-      "ja": "シエラレオネ"
+      "ja": "シエラレオネ",
+      "fr": "Sierra Leone",
+      "de": "Sierra Leone",
+      "it": "Sierra Leone",
+      "es": "Sierra Leona",
+      "zh": "塞拉利昂",
+      "ar": "سيراليون",
+      "he": "סיירה לאון"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SM",
     "names": {
       "en": "San Marino",
-      "ja": "サンマリノ"
+      "ja": "サンマリノ",
+      "fr": "Saint-Marin",
+      "de": "San Marino",
+      "it": "San Marino",
+      "es": "San Marino",
+      "zh": "圣马力诺",
+      "ar": "سان مارينو",
+      "he": "סן מרינו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SN",
     "names": {
       "en": "Senegal",
-      "ja": "セネガル"
+      "ja": "セネガル",
+      "fr": "Sénégal",
+      "de": "Senegal",
+      "it": "Senegal",
+      "es": "Senegal",
+      "zh": "塞内加尔",
+      "ar": "السنغال",
+      "he": "סנגל"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SO",
     "names": {
       "en": "Somalia",
-      "ja": "ソマリア"
+      "ja": "ソマリア",
+      "fr": "Somalie",
+      "de": "Somalia",
+      "it": "Somalia",
+      "es": "Somalia",
+      "zh": "索马里",
+      "ar": "الصومال",
+      "he": "סומליה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SR",
     "names": {
       "en": "Suriname",
-      "ja": "スリナム"
+      "ja": "スリナム",
+      "fr": "Suriname",
+      "de": "Suriname",
+      "it": "Suriname",
+      "es": "Surinam",
+      "zh": "苏里南",
+      "ar": "سورينام",
+      "he": "סורינאם"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SS",
     "names": {
       "en": "South Sudan",
-      "ja": "南スーダン"
+      "ja": "南スーダン",
+      "fr": "Soudan du Sud",
+      "de": "Südsudan",
+      "it": "Sud Sudan",
+      "es": "Sudán del Sur",
+      "zh": "南苏丹",
+      "ar": "جنوب السودان",
+      "he": "דרום סודן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ST",
     "names": {
       "en": "São Tomé & Príncipe",
-      "ja": "サントメ・プリンシペ"
+      "ja": "サントメ・プリンシペ",
+      "fr": "Sao Tomé-et-Principe",
+      "de": "São Tomé und Príncipe",
+      "it": "São Tomé e Príncipe",
+      "es": "Santo Tomé y Príncipe",
+      "zh": "圣多美和普林西比",
+      "ar": "ساو تومي وبرينسيبي",
+      "he": "סאו טומה ופרינסיפה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SV",
     "names": {
       "en": "El Salvador",
-      "ja": "エルサルバドル"
+      "ja": "エルサルバドル",
+      "fr": "Salvador",
+      "de": "El Salvador",
+      "it": "El Salvador",
+      "es": "El Salvador",
+      "zh": "萨尔瓦多",
+      "ar": "السلفادور",
+      "he": "אל סלבדור"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SX",
     "names": {
       "en": "Sint Maarten",
-      "ja": "シント・マールテン"
+      "ja": "シント・マールテン",
+      "fr": "Saint-Martin (partie néerlandaise)",
+      "de": "Sint Maarten",
+      "it": "Sint Maarten",
+      "es": "Sint Maarten",
+      "zh": "荷属圣马丁",
+      "ar": "سانت مارتن",
+      "he": "סנט מארטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SY",
     "names": {
       "en": "Syria",
-      "ja": "シリア"
+      "ja": "シリア",
+      "fr": "Syrie",
+      "de": "Syrien",
+      "it": "Siria",
+      "es": "Siria",
+      "zh": "叙利亚",
+      "ar": "سوريا",
+      "he": "סוריה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "SZ",
     "names": {
       "en": "Eswatini",
-      "ja": "エスワティニ"
+      "ja": "エスワティニ",
+      "fr": "Eswatini",
+      "de": "Eswatini",
+      "it": "Eswatini",
+      "es": "Esuatini",
+      "zh": "斯威士兰",
+      "ar": "إسواتيني",
+      "he": "אסוואטיני"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TC",
     "names": {
       "en": "Turks & Caicos Islands",
-      "ja": "タークス・カイコス諸島"
+      "ja": "タークス・カイコス諸島",
+      "fr": "Îles Turques-et-Caïques",
+      "de": "Turks- und Caicosinseln",
+      "it": "Isole Turks e Caicos",
+      "es": "Islas Turcas y Caicos",
+      "zh": "特克斯和凯科斯群岛",
+      "ar": "جزر توركس وكايكوس",
+      "he": "איי טרקס וקייקוס"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TD",
     "names": {
       "en": "Chad",
-      "ja": "チャド"
+      "ja": "チャド",
+      "fr": "Tchad",
+      "de": "Tschad",
+      "it": "Ciad",
+      "es": "Chad",
+      "zh": "乍得",
+      "ar": "تشاد",
+      "he": "צ׳אד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TF",
     "names": {
       "en": "French Southern Territories",
-      "ja": "仏領極南諸島"
+      "ja": "仏領極南諸島",
+      "fr": "Terres australes françaises",
+      "de": "Französische Süd- und Antarktisgebiete",
+      "it": "Terre Australi Francesi",
+      "es": "Territorios Australes Franceses",
+      "zh": "法属南部领地",
+      "ar": "الأقاليم الجنوبية الفرنسية",
+      "he": "הטריטוריות הדרומיות של צרפת"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TG",
     "names": {
       "en": "Togo",
-      "ja": "トーゴ"
+      "ja": "トーゴ",
+      "fr": "Togo",
+      "de": "Togo",
+      "it": "Togo",
+      "es": "Togo",
+      "zh": "多哥",
+      "ar": "توغو",
+      "he": "טוגו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TH",
     "names": {
       "en": "Thailand",
-      "ja": "タイ"
+      "ja": "タイ",
+      "fr": "Thaïlande",
+      "de": "Thailand",
+      "it": "Thailandia",
+      "es": "Tailandia",
+      "zh": "泰国",
+      "ar": "تايلاند",
+      "he": "תאילנד"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TJ",
     "names": {
       "en": "Tajikistan",
-      "ja": "タジキスタン"
+      "ja": "タジキスタン",
+      "fr": "Tadjikistan",
+      "de": "Tadschikistan",
+      "it": "Tagikistan",
+      "es": "Tayikistán",
+      "zh": "塔吉克斯坦",
+      "ar": "طاجيكستان",
+      "he": "טג׳יקיסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TK",
     "names": {
       "en": "Tokelau",
-      "ja": "トケラウ"
+      "ja": "トケラウ",
+      "fr": "Tokelau",
+      "de": "Tokelau",
+      "it": "Tokelau",
+      "es": "Tokelau",
+      "zh": "托克劳",
+      "ar": "توكيلاو",
+      "he": "טוקלאו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TL",
     "names": {
       "en": "Timor-Leste",
-      "ja": "東ティモール"
+      "ja": "東ティモール",
+      "fr": "Timor oriental",
+      "de": "Timor-Leste",
+      "it": "Timor Est",
+      "es": "Timor-Leste",
+      "zh": "东帝汶",
+      "ar": "تيمور - ليشتي",
+      "he": "טימור-לסטה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TM",
     "names": {
       "en": "Turkmenistan",
-      "ja": "トルクメニスタン"
+      "ja": "トルクメニスタン",
+      "fr": "Turkménistan",
+      "de": "Turkmenistan",
+      "it": "Turkmenistan",
+      "es": "Turkmenistán",
+      "zh": "土库曼斯坦",
+      "ar": "تركمانستان",
+      "he": "טורקמניסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TN",
     "names": {
       "en": "Tunisia",
-      "ja": "チュニジア"
+      "ja": "チュニジア",
+      "fr": "Tunisie",
+      "de": "Tunesien",
+      "it": "Tunisia",
+      "es": "Túnez",
+      "zh": "突尼斯",
+      "ar": "تونس",
+      "he": "תוניסיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TO",
     "names": {
       "en": "Tonga",
-      "ja": "トンガ"
+      "ja": "トンガ",
+      "fr": "Tonga",
+      "de": "Tonga",
+      "it": "Tonga",
+      "es": "Tonga",
+      "zh": "汤加",
+      "ar": "تونغا",
+      "he": "טונגה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TR",
     "names": {
       "en": "Türkiye",
-      "ja": "トルコ"
+      "ja": "トルコ",
+      "fr": "Turquie",
+      "de": "Türkei",
+      "it": "Turchia",
+      "es": "Turquía",
+      "zh": "土耳其",
+      "ar": "تركيا",
+      "he": "טורקיה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TT",
     "names": {
       "en": "Trinidad & Tobago",
-      "ja": "トリニダード・トバゴ"
+      "ja": "トリニダード・トバゴ",
+      "fr": "Trinité-et-Tobago",
+      "de": "Trinidad und Tobago",
+      "it": "Trinidad e Tobago",
+      "es": "Trinidad y Tobago",
+      "zh": "特立尼达和多巴哥",
+      "ar": "ترينيداد وتوباغو",
+      "he": "טרינידד וטובגו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TV",
     "names": {
       "en": "Tuvalu",
-      "ja": "ツバル"
+      "ja": "ツバル",
+      "fr": "Tuvalu",
+      "de": "Tuvalu",
+      "it": "Tuvalu",
+      "es": "Tuvalu",
+      "zh": "图瓦卢",
+      "ar": "توفالو",
+      "he": "טובאלו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TW",
     "names": {
       "en": "Taiwan",
-      "ja": "台湾"
+      "ja": "台湾",
+      "fr": "Taïwan",
+      "de": "Taiwan",
+      "it": "Taiwan",
+      "es": "Taiwán",
+      "zh": "台湾",
+      "ar": "تايوان",
+      "he": "טייוואן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "TZ",
     "names": {
       "en": "Tanzania",
-      "ja": "タンザニア"
+      "ja": "タンザニア",
+      "fr": "Tanzanie",
+      "de": "Tansania",
+      "it": "Tanzania",
+      "es": "Tanzania",
+      "zh": "坦桑尼亚",
+      "ar": "تنزانيا",
+      "he": "טנזניה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "UA",
     "names": {
       "en": "Ukraine",
-      "ja": "ウクライナ"
+      "ja": "ウクライナ",
+      "fr": "Ukraine",
+      "de": "Ukraine",
+      "it": "Ucraina",
+      "es": "Ucrania",
+      "zh": "乌克兰",
+      "ar": "أوكرانيا",
+      "he": "אוקראינה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "UG",
     "names": {
       "en": "Uganda",
-      "ja": "ウガンダ"
+      "ja": "ウガンダ",
+      "fr": "Ouganda",
+      "de": "Uganda",
+      "it": "Uganda",
+      "es": "Uganda",
+      "zh": "乌干达",
+      "ar": "أوغندا",
+      "he": "אוגנדה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "UM",
     "names": {
       "en": "U.S. Outlying Islands",
-      "ja": "合衆国領有小離島"
+      "ja": "合衆国領有小離島",
+      "fr": "Îles mineures éloignées des États-Unis",
+      "de": "Amerikanische Überseeinseln",
+      "it": "Isole Minori Esterne degli Stati Uniti",
+      "es": "Islas menores alejadas de EE. UU.",
+      "zh": "美国本土外小岛屿",
+      "ar": "جزر الولايات المتحدة النائية",
+      "he": "האיים המרוחקים הקטנים של ארה״ב"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "US",
     "names": {
       "en": "United States",
-      "ja": "アメリカ合衆国"
+      "ja": "アメリカ合衆国",
+      "fr": "États-Unis",
+      "de": "Vereinigte Staaten",
+      "it": "Stati Uniti",
+      "es": "Estados Unidos",
+      "zh": "美国",
+      "ar": "الولايات المتحدة",
+      "he": "ארצות הברית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "UY",
     "names": {
       "en": "Uruguay",
-      "ja": "ウルグアイ"
+      "ja": "ウルグアイ",
+      "fr": "Uruguay",
+      "de": "Uruguay",
+      "it": "Uruguay",
+      "es": "Uruguay",
+      "zh": "乌拉圭",
+      "ar": "أورغواي",
+      "he": "אורוגוואי"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "UZ",
     "names": {
       "en": "Uzbekistan",
-      "ja": "ウズベキスタン"
+      "ja": "ウズベキスタン",
+      "fr": "Ouzbékistan",
+      "de": "Usbekistan",
+      "it": "Uzbekistan",
+      "es": "Uzbekistán",
+      "zh": "乌兹别克斯坦",
+      "ar": "أوزبكستان",
+      "he": "אוזבקיסטן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VA",
     "names": {
       "en": "Vatican City",
-      "ja": "バチカン市国"
+      "ja": "バチカン市国",
+      "fr": "État de la Cité du Vatican",
+      "de": "Vatikanstadt",
+      "it": "Città del Vaticano",
+      "es": "Ciudad del Vaticano",
+      "zh": "梵蒂冈",
+      "ar": "الفاتيكان",
+      "he": "הוותיקן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VC",
     "names": {
       "en": "St. Vincent & Grenadines",
-      "ja": "セントビンセント及びグレナディーン諸島"
+      "ja": "セントビンセント及びグレナディーン諸島",
+      "fr": "Saint-Vincent-et-les Grenadines",
+      "de": "St. Vincent und die Grenadinen",
+      "it": "Saint Vincent e Grenadine",
+      "es": "San Vicente y las Granadinas",
+      "zh": "圣文森特和格林纳丁斯",
+      "ar": "سانت فنسنت وجزر غرينادين",
+      "he": "סנט וינסנט והגרנדינים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VE",
     "names": {
       "en": "Venezuela",
-      "ja": "ベネズエラ"
+      "ja": "ベネズエラ",
+      "fr": "Venezuela",
+      "de": "Venezuela",
+      "it": "Venezuela",
+      "es": "Venezuela",
+      "zh": "委内瑞拉",
+      "ar": "فنزويلا",
+      "he": "ונצואלה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VG",
     "names": {
       "en": "British Virgin Islands",
-      "ja": "英領ヴァージン諸島"
+      "ja": "英領ヴァージン諸島",
+      "fr": "Îles Vierges britanniques",
+      "de": "Britische Jungferninseln",
+      "it": "Isole Vergini Britanniche",
+      "es": "Islas Vírgenes Británicas",
+      "zh": "英属维尔京群岛",
+      "ar": "جزر فيرجن البريطانية",
+      "he": "איי הבתולה הבריטיים"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VI",
     "names": {
       "en": "U.S. Virgin Islands",
-      "ja": "米領ヴァージン諸島"
+      "ja": "米領ヴァージン諸島",
+      "fr": "Îles Vierges des États-Unis",
+      "de": "Amerikanische Jungferninseln",
+      "it": "Isole Vergini Americane",
+      "es": "Islas Vírgenes de EE. UU.",
+      "zh": "美属维尔京群岛",
+      "ar": "جزر فيرجن الأمريكية",
+      "he": "איי הבתולה של ארצות הברית"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VN",
     "names": {
       "en": "Vietnam",
-      "ja": "ベトナム"
+      "ja": "ベトナム",
+      "fr": "Viêt Nam",
+      "de": "Vietnam",
+      "it": "Vietnam",
+      "es": "Vietnam",
+      "zh": "越南",
+      "ar": "فيتنام",
+      "he": "וייטנאם"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "VU",
     "names": {
       "en": "Vanuatu",
-      "ja": "バヌアツ"
+      "ja": "バヌアツ",
+      "fr": "Vanuatu",
+      "de": "Vanuatu",
+      "it": "Vanuatu",
+      "es": "Vanuatu",
+      "zh": "瓦努阿图",
+      "ar": "فانواتو",
+      "he": "ונואטו"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "WF",
     "names": {
       "en": "Wallis & Futuna",
-      "ja": "ウォリス・フツナ"
+      "ja": "ウォリス・フツナ",
+      "fr": "Wallis-et-Futuna",
+      "de": "Wallis und Futuna",
+      "it": "Wallis e Futuna",
+      "es": "Wallis y Futuna",
+      "zh": "瓦利斯和富图纳",
+      "ar": "جزر والس وفوتونا",
+      "he": "איי ווליס ופוטונה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "WS",
     "names": {
       "en": "Samoa",
-      "ja": "サモア"
+      "ja": "サモア",
+      "fr": "Samoa",
+      "de": "Samoa",
+      "it": "Samoa",
+      "es": "Samoa",
+      "zh": "萨摩亚",
+      "ar": "ساموا",
+      "he": "סמואה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "YE",
     "names": {
       "en": "Yemen",
-      "ja": "イエメン"
+      "ja": "イエメン",
+      "fr": "Yémen",
+      "de": "Jemen",
+      "it": "Yemen",
+      "es": "Yemen",
+      "zh": "也门",
+      "ar": "اليمن",
+      "he": "תימן"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "YT",
     "names": {
       "en": "Mayotte",
-      "ja": "マヨット"
+      "ja": "マヨット",
+      "fr": "Mayotte",
+      "de": "Mayotte",
+      "it": "Mayotte",
+      "es": "Mayotte",
+      "zh": "马约特",
+      "ar": "مايوت",
+      "he": "מאיוט"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ZA",
     "names": {
       "en": "South Africa",
-      "ja": "南アフリカ"
+      "ja": "南アフリカ",
+      "fr": "Afrique du Sud",
+      "de": "Südafrika",
+      "it": "Sudafrica",
+      "es": "Sudáfrica",
+      "zh": "南非",
+      "ar": "جنوب أفريقيا",
+      "he": "דרום אפריקה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ZM",
     "names": {
       "en": "Zambia",
-      "ja": "ザンビア"
+      "ja": "ザンビア",
+      "fr": "Zambie",
+      "de": "Sambia",
+      "it": "Zambia",
+      "es": "Zambia",
+      "zh": "赞比亚",
+      "ar": "زامبيا",
+      "he": "זמביה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "ZW",
     "names": {
       "en": "Zimbabwe",
-      "ja": "ジンバブエ"
+      "ja": "ジンバブエ",
+      "fr": "Zimbabwe",
+      "de": "Simbabwe",
+      "it": "Zimbabwe",
+      "es": "Zimbabue",
+      "zh": "津巴布韦",
+      "ar": "زيمبابوي",
+      "he": "זימבבואה"
     },
-    "updatedAt": "2026-06-08"
+    "updatedAt": "2026-06-10"
   }
 ]

@@ -1,38 +1,1970 @@
 [
   {
+    "iso2": "AD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AQ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AX",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "AZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BB",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BJ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "BZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
     "iso2": "CA",
-    "selectableAsCountry": true,
-    "selectableAsBillingCountry": true,
-    "selectableAsShippingCountry": true,
-    "selectableAsPhoneCountry": true,
-    "selectableAsResidence": true,
-    "updatedAt": "2026-06-05"
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CV",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CX",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "CZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DJ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "DZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "EH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ER",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ES",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ET",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FJ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "FR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "GB",
-    "selectableAsCountry": true,
-    "selectableAsBillingCountry": true,
-    "selectableAsShippingCountry": true,
-    "selectableAsPhoneCountry": true,
-    "selectableAsResidence": true,
-    "updatedAt": "2026-06-05"
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GP",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GQ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "GY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "HU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ID",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IQ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "IT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "JE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "JM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "JO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "JP",
-    "selectableAsCountry": true,
-    "selectableAsBillingCountry": true,
-    "selectableAsShippingCountry": true,
-    "selectableAsPhoneCountry": true,
-    "selectableAsResidence": true,
-    "updatedAt": "2026-06-05"
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KP",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "KZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LB",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LV",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "LY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ME",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ML",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MP",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MQ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MV",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MX",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "MZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NP",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "NZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "OM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "PY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "QA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "RW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SB",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SJ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ST",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SV",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SX",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "SZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TD",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TH",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TJ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TK",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TL",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TO",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TR",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TV",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "TZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
   },
   {
     "iso2": "US",
-    "selectableAsCountry": true,
-    "selectableAsBillingCountry": true,
-    "selectableAsShippingCountry": true,
-    "selectableAsPhoneCountry": true,
-    "selectableAsResidence": true,
-    "updatedAt": "2026-06-05"
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UY",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "UZ",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VC",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VG",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VI",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VN",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "VU",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "WF",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "WS",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "YE",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "YT",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ZA",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ZM",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
+  },
+  {
+    "iso2": "ZW",
+    "selectableForShipping": true,
+    "selectableForBilling": true,
+    "selectableForPhone": true,
+    "selectableForResidence": true,
+    "updatedAt": "2026-06-10"
   }
 ]
